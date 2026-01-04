@@ -1,0 +1,935 @@
+book_name,author,primary_genre,book_type,number_of_pages,pages_category,first_published_year,book_age,rating,ratings_count,ratings_count_log,votes,votes_log,score
+"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,Young Adult,Hardcover,374,Medium,2008,17,4.35,9825418,16.100483361120702,43905,10.689806263983868,4318854
+Pride and Prejudice,Jane Austen,Classics,Paperback,279,Medium,1813,212,4.29,4762344,15.376250751955705,30399,10.322197887394314,2966459
+To Kill a Mockingbird,Harper Lee,Classics,Paperback,323,Medium,1960,65,4.26,6833106,15.737290032940763,26573,10.187688573151252,2602221
+"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,Fantasy,Hardcover,896,Very Long,2003,22,4.5,3771857,15.143078276215624,21168,9.96029312635758,2080496
+The Book Thief,Markus Zusak,Historical Fiction,Kindle,592,Long,2005,20,4.39,2859705,14.866229380309244,20242,9.915564333761576,1970739
+"Twilight (The Twilight Saga, #1)",Stephenie Meyer,Fantasy,Paperback,498,Long,2005,20,3.67,7263220,15.798333952323091,17950,9.79540110267107,1760818
+Animal Farm,George Orwell,Classics,Mass,141,Short,1945,80,4.02,4505182,15.320739069731175,17752,9.784309794706799,1715357
+"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,Fantasy,Paperback,767,Long,1956,69,4.28,705079,13.46606655053389,15973,9.678717679477334,1533474
+The Fault in Our Stars,John Green,Young Adult,Hardcover,313,Medium,2012,13,4.12,5683397,15.553059851260079,14665,9.593287168653745,1417114
+The Picture of Dorian Gray,Oscar Wilde,Classics,Paperback,272,Medium,1890,135,4.13,1858300,14.435173187387841,14265,9.565634362837983,1368049
+"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,Fantasy,Paperback,377,Medium,2005,20,4.31,3410543,15.042382367327805,13116,9.481664377815147,1256042
+Wuthering Heights,Emily Brontë,Classics,Paperback,464,Long,1847,178,3.9,2026356,14.521750157547102,13010,9.473550432503476,1247432
+"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,Fantasy,Paperback,870,Very Long,2003,22,4.5,3771857,15.143078276215624,12490,9.43276366396591,1213373
+Gone with the Wind,Margaret Mitchell,Classics,Mass,1037,Very Long,1936,89,4.31,1254218,14.042023626075338,12305,9.417842227300437,1193003
+The Perks of Being a Wallflower,Stephen Chbosky,Young Adult,Hardcover,213,Medium,1999,26,4.24,1988442,14.502862478396308,12379,9.423837546238587,1190076
+Jane Eyre,Charlotte Brontë,Classics,Paperback,532,Long,1847,178,4.16,2309013,14.652331151549086,12029,9.395158808968725,1145152
+The Great Gatsby,F. Scott Fitzgerald,Classics,Paperback,180,Short,1925,100,3.93,5868403,15.585093263864188,11924,9.386392315756542,1121452
+Crime and Punishment,Fyodor Dostoevsky,Classics,Paperback,671,Long,1866,159,4.29,1069140,13.88236608028028,11030,9.308464769969381,1060175
+"The Da Vinci Code (Robert Langdon, #2)",Dan    Brown,Fiction,Paperback,489,Long,2003,22,3.94,2513227,14.737078540623465,10791,9.286560397887591,1026812
+Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,Classics,Paperback,239,Medium,1871,154,4.06,606934,13.316176980287963,10638,9.272281773516365,1009457
+"Divergent (Divergent, #1)",Veronica Roth,Young Adult,Paperback,487,Long,2011,14,4.13,4356223,15.287116185037005,10518,9.260938424739274,1003609
+Les Misérables,Victor Hugo,Classics,Mass,1463,Very Long,1862,163,4.21,840691,13.641980641198488,10172,9.227492430793749,968746
+Memoirs of a Geisha,Arthur Golden,Fiction,Mass,503,Long,1997,28,4.16,2103692,14.559204929645938,10088,9.219201000408379,968383
+The Alchemist,Paulo Coelho,Fiction,Paperback,197,Short,1988,37,3.92,3537243,15.07885845082381,10027,9.213136459278184,960253
+"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,Classics,Mass,320,Medium,1908,117,4.33,1106222,13.916462068226766,10070,9.217415285648144,957633
+Lord of the Flies,William Golding,Classics,Paperback,182,Short,1954,71,3.7,3180042,14.972405276677517,10008,9.211239967219019,942682
+Brave New World,Aldous Huxley,Classics,Paperback,288,Medium,1932,93,3.99,2064076,14.540193711089282,9892,9.199582715323222,923864
+"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,Science Fiction,Mass,216,Medium,1979,46,4.22,2006139,14.511723035696882,9093,9.115370134384955,876746
+"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,Fantasy,Hardcover,485,Long,2007,18,4.07,2158343,14.584851818954496,9115,9.117786390365575,867816
+The Help,Kathryn Stockett,Fiction,Hardcover,451,Long,2009,16,4.47,3003548,14.915305147439259,9095,9.115590035430372,852941
+Dracula,Bram Stoker,Classics,Paperback,488,Long,1897,128,4.02,1465337,14.197596490545845,9078,9.113719333371757,845948
+Fahrenheit 451,Ray Bradbury,Classics,Kindle,194,Short,1953,72,3.97,2809289,14.848442340344583,8867,9.090204570736201,837236
+Charlotte’s Web,E.B. White,Classics,Paperback,184,Short,1952,73,4.21,2033696,14.525365876942253,8997,9.104757609401117,835895
+1984,George Orwell,Classics,ebook,298,Medium,1949,76,4.2,5406984,15.503202194178677,8710,9.072341873818893,818439
+Of Mice and Men,John Steinbeck,Classics,Paperback,107,Short,1937,88,3.9,2814743,14.850381874035074,8775,9.079776001955066,815502
+"Ender’s Game (Ender's Saga, #1)",Orson Scott Card,Science Fiction,Mass,324,Medium,1985,40,4.31,1469115,14.200171417320925,8398,9.035867930125628,804963
+The Catcher in the Rye,J.D. Salinger,Classics,Paperback,277,Medium,1951,74,3.8,3871518,15.169157494455403,8550,9.053803514155955,796653
+"Little Women (Little Women, #1)",Louisa May Alcott,Classics,Mass,449,Long,1868,157,4.17,2443035,14.708752086111655,8495,9.04735074348172,777397
+One Hundred Years of Solitude,Gabriel García Márquez,Classics,Mass,417,Long,1967,58,4.12,1097424,13.908477084466535,8033,8.991437814919227,764823
+A Thousand Splendid Suns,Khaled Hosseini,Fiction,Hardcover,372,Medium,2007,18,4.45,1723988,14.360151349674979,8042,8.99255742690407,761920
+The Outsiders,S.E. Hinton,Classics,Mass,208,Medium,1967,58,4.14,1586320,14.276928056662321,8055,8.994172434398399,753550
+The Secret Garden,Frances Hodgson Burnett,Classics,Hardcover,331,Medium,1911,114,4.17,1288607,14.069073123955473,7965,8.982937763741589,728660
+The Princess Bride,William Goldman,Fantasy,Paperback,429,Long,1973,52,4.27,945646,13.759624628290481,7739,8.954156966583772,727246
+"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,Fantasy,Mass,835,Very Long,1996,29,4.45,2720575,14.816354180559083,7703,8.949494953477961,723954
+The Time Traveler's Wife,Audrey Niffenegger,Fiction,ebook,537,Long,2003,22,4.0,1854436,14.433091703913872,7396,8.908829791587868,706222
+"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,Fantasy,Hardcover,759,Long,2007,18,4.62,4087629,15.223475897963246,7403,8.909775673693389,687480
+Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,Classics,Paperback,260,Medium,1818,207,3.9,1865306,14.43893620877316,7269,8.891511570527564,662091
+"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,Fantasy,Paperback,218,Medium,1962,63,3.97,1279216,14.061758729969549,6881,8.836664586357426,642955
+"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood,Fiction,Paperback,311,Medium,1985,40,4.15,2399741,14.690871789539635,6949,8.846496938558838,640400
+The Kite Runner,Khaled Hosseini,Fiction,Paperback,371,Medium,2003,22,4.36,3471086,15.059978359352623,6884,8.837100411162755,638116
+"The Giver (The Giver, #1)",Lois Lowry,Young Adult,Paperback,208,Medium,1993,32,4.12,2789166,14.841253542909511,6873,8.835501457409778,636789
+"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,Fantasy,Mass,547,Long,1999,26,4.58,4802893,15.384729210863554,6773,8.820847033377717,623030
+"The Girl With the Dragon Tattoo (Millennium, #1)",Stieg Larsson,Fiction,Hardcover,480,Long,2005,20,4.18,3430186,15.048125336606455,6617,8.797548488481558,602423
+Dune (Dune #1),Frank Herbert,Science Fiction,Hardcover,658,Long,1965,60,4.29,1615585,14.295208297122583,6281,8.745443680098592,584964
+The Lovely Bones,Alice Sebold,Fiction,Mass,372,Medium,2002,23,3.86,2456827,14.714381644982913,6172,8.727940222393896,572410
+"The Adventures of Huckleberry Finn (Adventures of Tom and Huck, #2)",Mark Twain,Classics,Paperback,327,Medium,1885,140,3.83,1334261,14.103888887972499,6255,8.741296282225147,567377
+Life of Pi,Yann Martel,Fiction,Paperback,460,Long,2001,24,3.94,1747266,14.37356341086709,6024,8.703672758358856,557146
+Lolita,Vladimir Nabokov,Classics,Paperback,368,Medium,1955,70,3.87,940235,13.753886186564724,5921,8.686429508661536,550338
+A Tale of Two Cities,Charles Dickens,Classics,Paperback,489,Long,1859,166,3.88,1009068,13.824538681536778,6000,8.699681400989514,546684
+Slaughterhouse-Five,Kurt Vonnegut Jr.,Classics,Paperback,275,Medium,1969,56,4.1,1476604,14.205256091758859,5785,8.66319648553608,536499
+The Bell Jar,Sylvia Plath,Classics,Paperback,294,Medium,1963,62,4.05,1207543,14.004099102768379,5623,8.6347984334905,519097
+Matilda,Roald Dahl,Fiction,Hardcover,240,Medium,1988,37,4.33,1101699,13.912364999328156,5638,8.637462023807181,511271
+Water for Elephants,Sara Gruen,Fiction,Paperback,368,Medium,2006,19,4.11,1695654,14.343579654830048,5451,8.603737792816423,505285
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,Fantasy,Kindle,333,Medium,1997,28,4.47,11324147,16.24244799471524,5097,8.53660358493606,482822
+The Stand,Stephen  King,Horror,Hardcover,1152,Very Long,1978,47,4.35,831082,13.630484948513,4970,8.511376306094673,460188
+Catch-22,Joseph Heller,Classics,Paperback,453,Long,1961,64,3.99,884156,13.6923899276604,4968,8.51097389160232,455482
+"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,Classics,Paperback,389,Medium,1892,133,4.3,325136,12.692001910951037,4975,8.512381634419015,445213
+"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett,Historical Fiction,Paperback,976,Very Long,1989,36,4.35,825943,13.624282253594652,4718,8.459352191726387,438333
+Rebecca,Daphne du Maurier,Classics,Kindle,449,Long,1938,87,4.25,715090,13.48016508630493,4804,8.477412321404392,431436
+"Watership Down (Watership Down, #1)",Richard  Adams,Classics,Mass,478,Long,1972,53,4.09,504470,13.131265634467514,4672,8.449556542700426,427267
+The Color Purple,Alice Walker,Classics,Paperback,287,Medium,1982,43,4.28,749358,13.526973453410038,4668,8.448700194970938,414822
+Great Expectations,Charles Dickens,Classics,Paperback,544,Long,1861,164,3.8,870370,13.676674836514051,4756,8.467372496432281,414777
+"Outlander (Outlander, #1)",Diana Gabaldon,Historical Fiction,Mass,850,Very Long,1991,34,4.26,1148294,13.953788791491977,4390,8.387312270561717,409857
+Anna Karenina,Leo Tolstoy,Classics,Paperback,964,Very Long,1878,147,4.1,925993,13.738623034125682,4415,8.392989587956931,403287
+"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,Fantasy,Kindle,432,Long,1954,71,4.41,3127718,14.955814542852455,4379,8.384804003370492,397062
+One Flew Over the Cuckoo’s Nest,Ken Kesey,Classics,Mass,325,Medium,1962,63,4.2,777718,13.564120555399132,4428,8.395929103923198,391549
+The Brothers Karamazov,Fyodor Dostoevsky,Classics,Paperback,796,Long,1880,145,4.39,383159,12.856207935496828,4159,8.333270353255308,378592
+My Sister's Keeper,Jodi Picoult,Fiction,Paperback,423,Long,2004,21,4.11,1272459,14.056462592728074,4154,8.332067707289548,377642
+A Clockwork Orange,Anthony Burgess,Classics,Paperback,240,Medium,1962,63,4.0,766528,13.549627810890113,4219,8.347590407030058,375454
+To Kill a Mockingbird,Harper Lee,Classics,Paperback,323,Medium,1960,65,4.26,6833106,15.737290032940763,3933,8.277411998949004,362878
+A Tree Grows in Brooklyn,Betty  Smith,Classics,Paperback,496,Long,1943,82,4.3,509984,13.142136592503268,3882,8.264363329731667,353218
+The Road,Cormac McCarthy,Fiction,Hardcover,241,Medium,2006,19,4.0,1029517,13.844601289512772,3805,8.244334047856094,346918
+"The Golden Compass (His Dark Materials, #1)",Philip Pullman,Fantasy,Hardcover,399,Medium,1995,30,4.03,1612301,14.293173529414995,3675,8.209580483475577,330912
+The Elephant Tree,R.D. Ronald,Thriller,Paperback,252,Medium,2010,15,3.9,40136,10.60005388114173,3555,8.176391596633795,330879
+"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,Fantasy,Hardcover,752,Long,2000,25,4.57,4165746,15.242406169242177,3651,8.20303024171486,325478
+Siddhartha,Hermann Hesse,Classics,Mass,152,Short,1922,103,4.08,871143,13.677562569379706,3581,8.183676582620658,321465
+"Vampire Academy (Vampire Academy, #1)",Richelle Mead,Fantasy,Paperback,332,Medium,2007,18,4.1,679056,13.428460349998337,3436,8.142354276849835,319913
+And Then There Were None,Agatha Christie,Mystery,Paperback,264,Medium,1939,86,4.27,1599290,14.285070964001113,3489,8.157657015196472,312039
+"Angela’s Ashes (Frank McCourt, #1)",Frank McCourt,Nonfiction,Paperback,452,Long,1996,29,4.15,656818,13.395163764838363,3473,8.153061946801051,311013
+The Poisonwood Bible,Barbara Kingsolver,Fiction,Paperback,546,Long,1998,27,4.11,791012,13.58106968150728,3285,8.097426298597213,298751
+The Zombie Room,R.D. Ronald,Thriller,Kindle,218,Medium,2012,13,3.92,39990,10.596409707779776,3086,8.034955024502159,287441
+The Complete Stories and Poems,Edgar Allan Poe,Classics,Hardcover,821,Very Long,1849,176,4.4,295146,12.595228816293952,3268,8.092239406724211,285757
+Gone Girl,Gillian Flynn,Fiction,Paperback,415,Long,2012,13,4.15,3423283,15.046110882227243,2967,7.995643604287271,268980
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,Horror,Paperback,346,Medium,1976,49,4.02,647053,13.38018503213319,3032,8.017307507688582,266984
+Atlas Shrugged,Ayn Rand,Fiction,Paperback,1168,Very Long,1957,68,3.69,406229,12.91467478064498,2879,7.965545573129992,261988
+The Girl Who Played with Fire (Millennium #2),Stieg Larsson,Fiction,Hardcover,503,Long,2006,19,4.26,983117,13.798484432616757,2935,7.984803389734406,261196
+"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,Classics,Hardcover,161,Short,1926,99,4.38,393989,12.884080807247315,3027,8.01565761455734,258814
+"The Notebook (The Notebook, #1)",Nicholas Sparks,Romance,Kindle,227,Medium,1996,29,4.16,1832225,14.421042179053106,2907,7.97522083865341,258000
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,Fantasy,Hardcover,309,Medium,1997,28,4.47,11324147,16.24244799471524,2625,7.873217054862741,240363
+Fahrenheit 451,Ray Bradbury,Classics,Mass,158,Short,1953,72,3.97,2809289,14.848442340344583,2653,7.8838232148921525,239517
+The Stranger,Albert Camus,Classics,Paperback,123,Short,1942,83,4.03,1383295,14.139979615222783,2658,7.88570539124302,235470
+"The Shining (The Shining, #1)",Stephen  King,Horror,Mass,497,Long,1977,48,4.28,1694948,14.343163209848445,2600,7.8636512654486515,226307
+"Moby-Dick or, The Whale",Herman Melville,Classics,Paperback,720,Long,1851,174,3.56,613504,13.326943693059143,2558,7.847371836159788,221495
+A Prayer for Owen Meany,John Irving,Fiction,Paperback,637,Long,1989,36,4.24,336254,12.725625079676107,2391,7.779885115070522,217198
+Dark Places,Gillian Flynn,Mystery,Hardcover,424,Long,2009,16,3.94,834460,13.634541286420333,2342,7.759187438507795,216769
+Shutter Island,Dennis Lehane,Mystery,Mass,369,Medium,2003,22,4.14,223876,12.318852072879782,2240,7.714677473800927,205768
+"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,Fantasy,Hardcover,352,Medium,1998,27,4.43,4458539,15.310331916144055,2409,7.787382026484701,204282
+"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,Fantasy,Hardcover,479,Long,2010,15,4.31,874581,13.681501336912214,2226,7.708410667257367,203029
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,Fantasy,Paperback,366,Medium,1937,88,4.3,4431010,15.304138332688137,2282,7.733245646529795,197152
+The Metamorphosis,Franz Kafka,Classics,Mass,201,Medium,1915,110,3.9,1407615,14.157408051230552,2219,7.705262474866325,191929
+It,Stephen  King,Horror,Paperback,1184,Very Long,1986,39,4.24,1258936,14.045778272060398,2172,7.6838639802564295,191926
+The Girl on the Train,Paula Hawkins,Fiction,Hardcover,336,Medium,2015,10,3.96,3266017,14.999082063826203,2081,7.641084249174914,191784
+The Secret Life of Bees,Sue Monk Kidd,Fiction,Paperback,352,Medium,2001,24,4.1,1349360,14.115141705023694,2178,7.68662133494462,190101
+"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,Fantasy,Hardcover,662,Long,2007,18,4.52,1075548,13.888341786856643,2009,7.605890001053122,188861
+The Red Tent,Anita Diamant,Historical Fiction,Hardcover,324,Medium,1997,28,4.2,630126,13.353676665353312,2088,7.644440761556566,186382
+Mystic River,Dennis Lehane,Mystery,Paperback,416,Long,2001,24,4.17,164559,12.01103052432684,2025,7.613818684808629,186183
+"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris,Horror,Hardcover,454,Long,1981,44,4.07,371632,12.825662087145721,2016,7.6093665379542115,185637
+The Master and Margarita,Mikhail Bulgakov,Classics,Paperback,372,Medium,1967,58,4.28,416826,12.94042654659384,1993,7.597897950521784,182940
+Never Lie,Freida McFadden,Thriller,Kindle,286,Medium,2022,3,4.08,1403396,14.15440628413237,1947,7.5745584842024805,182540
+Before I Go to Sleep,S.J. Watson,Thriller,Hardcover,359,Medium,2011,14,3.9,367077,12.813329638514489,1935,7.568379267836522,180605
+None of This Is True,Lisa Jewell,Thriller,Hardcover,390,Medium,2023,2,4.08,1074875,13.887715864053503,1927,7.564238475170491,180397
+Big Little Lies,Liane Moriarty,Fiction,Paperback,460,Long,2014,11,4.31,1109801,13.919692178998824,1933,7.56734567601324,179865
+1984,George Orwell,Classics,Paperback,368,Medium,1949,76,4.2,5406984,15.503202194178677,1926,7.563719668414366,178977
+The Paris Apartment,Lucy Foley,Mystery,Hardcover,360,Medium,2022,3,3.64,708913,13.471489500554858,1905,7.552762084214147,178435
+"The Family Upstairs (The Family Upstairs, #1)",Lisa Jewell,Thriller,Hardcover,352,Medium,2019,6,3.95,557770,13.231703762863441,1895,7.547501682814967,177561
+The Count of Monte Cristo,Alexandre Dumas,Classics,Paperback,1276,Very Long,1844,181,4.32,1016947,13.83231654294668,2010,7.606387389772652,176952
+Lock Every Door,Riley Sager,Thriller,ebook,381,Medium,2019,6,3.89,296472,12.599711430878882,1884,7.541683099882111,176215
+"The Housemaid's Secret (The Housemaid, #2)",Freida McFadden,Thriller,Kindle,329,Medium,2023,2,4.17,1540171,14.247404656464825,1880,7.53955882930103,176112
+"You (You, #1)",Caroline Kepnes,Thriller,Paperback,464,Long,2014,11,3.96,290682,12.57998860530481,1880,7.53955882930103,175806
+The Woman in the Window,A.J. Finn,Thriller,Kindle,455,Long,2018,7,3.94,881008,13.688823120530156,1874,7.536363938404511,175199
+Perfume: The Story of a Murderer,Patrick Süskind,Fiction,Paperback,263,Medium,1985,40,4.04,548860,13.215600500820429,1973,7.587817219993427,174570
+"The Woman in Cabin 10 (Lo Blacklock, #1)",Ruth Ware,Mystery,Hardcover,341,Medium,2016,9,3.72,763109,13.545157467634269,1846,7.52131798019924,172357
+Pretty Girls,Karin Slaughter,Thriller,Paperback,432,Long,2015,10,4.01,694097,13.450368439894335,1834,7.51479976048867,171635
+Home Before Dark,Riley Sager,Horror,Hardcover,389,Medium,2020,5,4.04,309046,12.64124864787318,1824,7.509335266016592,170720
+"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan,Fantasy,Hardcover,381,Medium,2009,16,4.55,1139597,13.946186126602596,1933,7.56734567601324,170583
+"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver,Mystery,Mass,528,Long,1997,28,4.2,195115,12.181349532474668,1836,7.515889085215125,170482
+Eragon (The Inheritance Cycle #1),Christopher Paolini,Fantasy,Paperback,503,Long,2002,23,3.96,1931638,14.473879423293333,1931,7.566311014772463,169602
+Fight Club,Chuck Palahniuk,Fiction,Paperback,224,Medium,1996,29,4.18,640375,13.369810782825294,1941,7.571473648851271,169504
+The Only One Left,Riley Sager,Thriller,Hardcover,383,Medium,2023,2,4.13,591508,13.2904321778385,1795,7.493317248862145,168101
+The Couple Next Door,Shari Lapena,Thriller,Hardcover,308,Medium,2016,9,3.8,705204,13.466243819667898,1795,7.493317248862145,167865
+Behind Closed Doors,B.A. Paris,Thriller,Hardcover,293,Medium,2016,9,3.97,747039,13.523874010204764,1799,7.495541943884256,167766
+No Exit,Taylor  Adams,Thriller,Kindle,287,Medium,2017,8,3.98,213346,12.27067522711583,1790,7.490529402060711,167321
+Final Girls,Riley Sager,Thriller,Hardcover,352,Medium,2017,8,3.82,258869,12.464081284170463,1786,7.488293515159428,167240
+"The Last Thing He Told Me (Hannah Hall, #1)",Laura Dave,Mystery,Hardcover,307,Medium,2021,4,3.82,1132908,13.94029921904399,1788,7.489412083508719,167069
+Looking for Alaska,John Green,Young Adult,Paperback,221,Medium,2005,20,3.96,1740272,14.36955255543546,1803,7.4977617006225685,164689
+"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,Fantasy,Paperback,206,Medium,1950,75,4.24,3131508,14.957025554965508,2014,7.608374474380783,164565
+Then She Was Gone,Lisa Jewell,Thriller,Paperback,359,Medium,2017,8,4.04,971331,13.78642360438464,1763,7.475339236566737,164227
+A Flicker in the Dark,Stacy Willingham,Thriller,Hardcover,357,Medium,2022,3,3.97,592689,13.292426775691636,1752,7.469083884921234,163826
+"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,Fiction,Paperback,176,Short,1964,61,4.17,927148,13.739869565180822,1943,7.572502985020384,162049
+The Adventures of Tom Sawyer,Mark Twain,Classics,Paperback,244,Medium,1876,149,3.92,1013894,13.829309907475706,1991,7.596894438144544,161359
+Middlesex,Jeffrey Eugenides,Fiction,Paperback,529,Long,2002,23,4.04,662252,13.40340293713538,1807,7.4999765409521215,161277
+"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,Fiction,Paperback,487,Long,2001,24,4.31,715247,13.48038461468335,1759,7.473069088032197,158706
+"Six of Crows (Six of Crows, #1)",Leigh Bardugo,Fantasy,Hardcover,480,Long,2015,10,4.46,1143281,13.949413631506886,1676,7.424761761823209,157339
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,Fiction,Paperback,226,Medium,2003,22,3.89,1590050,14.279276649153706,1804,7.498315870766981,156675
+"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom,Nonfiction,Paperback,210,Medium,1997,28,4.21,1189870,13.989355455850298,1778,7.483806687665835,156043
+The Secret History,Donna Tartt,Fiction,Paperback,559,Long,1992,33,4.15,1014139,13.82955152066403,1693,7.434847875211999,154139
+"Holes (Holes, #1)",Louis Sachar,Young Adult,Paperback,272,Medium,1998,27,4.01,1356813,14.120649862362768,1787,7.488852955733459,151530
+"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,Fantasy,Paperback,652,Long,2005,20,4.58,3636270,15.106469263955347,1758,7.472500744737558,151122
+The Unbearable Lightness of Being,Milan Kundera,Fiction,Paperback,314,Medium,1984,41,4.11,540428,13.20011854758095,1693,7.434847875211999,150701
+The Name of the Rose,Umberto Eco,Fiction,Paperback,552,Long,1980,45,4.14,393975,12.884045272719172,1731,7.4570320891223805,148890
+On the Road,Jack Kerouac,Classics,Paperback,307,Medium,1957,68,3.61,446476,13.009143166213796,1682,7.428333194190806,147555
+Where the Red Fern Grows,Wilson Rawls,Classics,Mass,272,Medium,1961,64,4.13,439138,12.992571270642614,1703,7.440733707389261,146507
+"The Godfather (The Godfather, #1)",Mario Puzo,Fiction,Paperback,428,Long,1969,56,4.4,461959,13.043233586229023,1713,7.446585099157725,145159
+In Cold Blood,Truman Capote,Nonfiction,Paperback,343,Medium,1966,59,4.09,725474,13.494581891718857,1708,7.443663683115591,144099
+The Scarlet Letter,Nathaniel Hawthorne,Classics,Paperback,279,Medium,1850,175,3.44,915377,13.72709237370335,1755,7.470793774195062,141216
+"Catching Fire (The Hunger Games, #2)",Suzanne Collins,Young Adult,Hardcover,391,Medium,2009,16,4.35,4121691,15.231774316631569,1638,7.40184157874383,140090
+The Song of Achilles,Madeline Miller,Fantasy,Paperback,408,Long,2011,14,4.3,1957662,14.487261972856757,1479,7.299797366758161,138969
+"American Gods: Tenth Anniversary (American Gods, #1)",Neil Gaiman,Fantasy,Kindle,635,Long,2001,24,4.1,988385,13.803828588690328,1556,7.350516171833998,137223
+The Five People You Meet in Heaven,Mitch Albom,Fiction,Hardcover,196,Short,2003,22,4.01,798522,13.59051905022989,1567,7.357556200910353,136614
+All Quiet on the Western Front,Erich Maria Remarque,Classics,Mass,296,Medium,1928,97,4.11,517444,13.156658518280285,1580,7.3658128372094716,135466
+Watchmen,Alan             Moore,Graphic Novels,Paperback,416,Long,1987,38,4.39,592324,13.291810749714678,1532,7.334981878871814,135391
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,Fantasy,Mass,491,Long,1990,35,4.25,821842,13.61930465822905,1489,7.306531398939505,132027
+"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry,Fiction,Mass,960,Very Long,1985,40,4.57,236825,12.375080973262003,1461,7.2875606403097235,130063
+"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick,Fantasy,Hardcover,391,Medium,2009,16,3.92,742036,13.517154386135399,1422,7.260522598089852,128624
+"Peter Pan (Peter Pan, #2)",J.M. Barrie,Classics,Hardcover,155,Short,1911,114,4.03,373082,12.829556193979265,1558,7.351799869057777,125458
+"The Titan’s Curse (Percy Jackson and the Olympians, #3)",Rick Riordan,Fantasy,Kindle,352,Medium,2007,18,4.37,1206294,14.003064236638973,1453,7.282073658093465,122851
+"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,Fantasy,Hardcover,361,Medium,2008,17,4.42,1209788,14.005956522201647,1406,7.249215057114389,120177
+"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,Fantasy,Hardcover,406,Long,2012,13,4.18,2355830,14.672404089432042,1286,7.160069207596127,117212
+Love in the Time of Cholera,Gabriel García Márquez,Fiction,Paperback,348,Medium,1985,40,3.94,544725,13.208038194929495,1390,7.237778191923443,116953
+"Insurgent (Divergent, #2)",Veronica Roth,Young Adult,Hardcover,525,Long,2012,13,3.96,1617170,14.296188884359426,1326,7.190676034332207,115980
+"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan,Fantasy,Hardcover,279,Medium,2006,19,4.24,1353428,14.118151930066583,1376,7.227662498728655,115566
+"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,Fantasy,Kindle,626,Long,2016,9,4.64,3139144,14.959461027812337,1235,7.119635638017636,115483
+The Addiction Manifesto,Jerry Weaver,Nonfiction,Paperback,178,Short,2018,7,4.74,1261,7.140453043101158,1150,7.048386408721883,114964
+A Walk to Remember,Nicholas Sparks,Romance,Kindle,215,Medium,1999,26,4.2,843333,13.645118362549114,1338,7.199678345691172,114753
+The Thorn Birds,Colleen McCullough,Fiction,Mass,692,Long,1977,48,4.25,364047,12.805041006056909,1369,7.222566018822171,113211
+"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare,Fantasy,Paperback,567,Long,2013,12,4.55,475705,13.072555295332212,1258,7.138073034044347,113175
+"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,Science Fiction,Paperback,815,Very Long,1996,29,4.38,337610,12.729649624111515,1319,7.1853870155804165,112257
+"The Maze Runner (The Maze Runner, #1)",James Dashner,Young Adult,Hardcover,384,Medium,2009,16,4.05,1672045,14.329558584210059,1277,7.15305163493748,111464
+"Shadow Kiss (Vampire Academy, #3)",Richelle Mead,Young Adult,Paperback,443,Long,2008,17,4.33,380532,12.84932818051271,1217,7.1049654482698426,109421
+The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,Plays,Kindle,137,Short,2000,25,4.43,9810,9.19125948416339,1259,7.138866999945524,109332
+Their Eyes Were Watching God,Zora Neale Hurston,Classics,Paperback,238,Medium,1937,88,3.99,384828,12.860554358759343,1261,7.140453043101158,109193
+"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,Fantasy,Hardcover,672,Long,2005,20,4.58,3636270,15.106469263955347,1218,7.105786129481271,108772
+"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,Classics,Paperback,154,Short,1900,125,4.0,509257,13.140710043342196,1411,7.252762418053187,108491
+Atonement,Ian McEwan,Fiction,Paperback,351,Medium,2001,24,3.95,561494,13.238358148401487,1288,7.161622002939187,108237
+The Three Musketeers,Alexandre Dumas,Fiction,Paperback,424,Long,1998,27,4.1,345850,12.75376332545147,1349,7.2078598714324755,107587
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Fiction,Hardcover,389,Medium,2017,8,4.39,4031321,15.20960491983184,1132,7.0326242610280065,106221
+"Eat, Pray, Love",Elizabeth Gilbert,Nonfiction,Paperback,368,Medium,2006,19,3.64,1837809,14.424085203322615,1210,7.099201743553092,104580
+The Diary of a Young Girl,Anne Frank,Classics,Mass,283,Medium,1947,78,4.2,4162087,15.241527429393114,1282,7.1569563646156364,103918
+"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,Young Adult,Hardcover,1155,Very Long,2010,15,4.5,234006,12.363106308422322,1217,7.1049654482698426,103683
+"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,Mystery,Paperback,274,Medium,1934,91,4.2,725532,13.494661836143742,1286,7.160069207596127,102066
+Bridge to Terabithia,Katherine Paterson,Fiction,Kindle,190,Short,1977,48,4.06,587870,13.284262815056648,1247,7.129297548929373,99866
+"Frostbite (Vampire Academy, #2)",Richelle Mead,Young Adult,Paperback,327,Medium,2008,17,4.25,371464,12.825209926050247,1119,7.02108396428914,98495
+"The Selection (The Selection, #1)",Kiera Cass,Romance,Hardcover,336,Medium,2012,13,4.07,1751664,14.37607732214984,1098,7.002155954403621,97795
+Heart of Darkness,Joseph Conrad,Classics,Paperback,188,Short,1899,126,3.43,556198,13.228881422865966,1196,7.087573705557973,97029
+Tess of the D’Urbervilles,Thomas Hardy,Classics,Paperback,518,Long,1891,134,3.84,301773,12.617433671836723,1184,7.077498053569231,96485
+The Night Circus,Erin Morgenstern,Fantasy,Hardcover,506,Long,2011,14,4.0,1092629,13.904098192007773,1082,6.9874902470009905,96206
+The Call of the Wild,Jack London,Classics,Mass,172,Short,1903,122,3.91,470245,13.06101124101333,1234,7.118826249062078,95082
+The Prophet,Kahlil Gibran,Poetry,Paperback,127,Short,1923,102,4.23,327441,12.699066219136881,1142,7.04141166379481,94812
+"Blood Promise (Vampire Academy, #4)",Richelle Mead,Young Adult,Hardcover,503,Long,2009,16,4.3,326495,12.696172976475031,1066,6.9726062513017535,93470
+The Joy Luck Club,Amy Tan,Fiction,Paperback,288,Medium,1989,36,3.97,708458,13.470847467701644,1154,7.051855622955894,92376
+The Phantom Tollbooth,Norton Juster,Fantasy,Paperback,248,Medium,1961,64,4.2,305831,12.630791210560226,1076,6.981934677156389,91727
+"The Good Earth (House of Earth, #1)",Pearl S. Buck,Classics,Mass,418,Long,1931,94,4.01,260157,12.469044417735157,1117,7.0192966537150445,91678
+The Neverending Story,Michael Ende,Fantasy,Hardcover,396,Medium,1979,46,4.18,220012,12.30144191449779,1108,7.011213987350367,91216
+Madame Bovary,Gustave Flaubert,Classics,Paperback,329,Medium,1856,169,3.71,372915,12.829108472191997,1122,7.023758954738443,89680
+Treasure Island,Robert Louis Stevenson,Classics,Hardcover,352,Medium,1882,143,3.85,538196,13.195979943123398,1199,7.090076835776092,89272
+Oliver Twist,Charles Dickens,Classics,Paperback,608,Long,1838,187,3.88,426206,12.962680422725763,1195,7.086737934510577,88842
+"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,Fantasy,Kindle,1009,Very Long,1982,43,4.13,212591,12.267130114831089,1051,6.9584483932976555,88487
+"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,Fantasy,Mass,1177,Very Long,2000,25,4.55,842903,13.644608351495728,1025,6.933423025730715,88384
+Jonathan Livingston Seagull,Richard Bach,Fiction,Paperback,112,Short,1970,55,3.86,271600,12.512089356545026,1066,6.9726062513017535,86943
+The Boy in the Striped Pajamas,John Boyne,Historical Fiction,Hardcover,224,Medium,2006,19,4.16,959293,13.773952876225861,1061,6.967909201801884,86818
+Ulysses,James Joyce,Classics,Paperback,783,Long,1922,103,3.76,137438,11.830935461289402,1028,6.9363427358340495,86774
+"Jurassic Park (Jurassic Park, #1)",Michael Crichton,Science Fiction,Kindle,466,Long,1990,35,4.13,1056147,13.87013888494319,1067,6.97354301952014,86289
+"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,Romance,Paperback,356,Medium,2011,14,3.67,2847736,14.862035201744277,950,6.85751406254539,84162
+"Beloved (Beloved Trilogy, #1)",Toni Morrison,Fiction,Paperback,325,Medium,1987,38,3.98,488033,13.098140354539442,1018,6.926577033222725,83359
+"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,Fantasy,Hardcover,576,Long,2010,15,4.29,935505,13.748842838358236,991,6.899723107284872,82407
+"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,Historical Fiction,Kindle,516,Long,1980,45,4.1,281920,12.549382168829222,1006,6.914730892718563,81163
+A Farewell to Arms,Ernest Hemingway,Classics,Paperback,293,Medium,1929,96,3.82,352052,12.771537011427801,1024,6.932447891572509,79817
+"Cinder (The Lunar Chronicles, #1)",Marissa Meyer,Fantasy,Hardcover,400,Medium,2012,13,4.12,1007902,13.823382492824303,907,6.811244378601294,79130
+David Copperfield,Charles Dickens,Classics,Paperback,882,Very Long,1850,175,4.04,257569,12.459046806803057,1040,6.947937068614969,78983
+A Little Princess,Frances Hodgson Burnett,Classics,Paperback,242,Medium,1905,120,4.23,323647,12.687411784439655,999,6.907755278982137,78809
+The World According to Garp,John Irving,Fiction,Hardcover,610,Long,1978,47,4.11,238287,12.38123530512565,974,6.882437470997847,78244
+Thirteen Reasons Why,Jay Asher,Young Adult,Hardcover,352,Medium,2007,18,3.84,1022400,13.837664340695696,894,6.796823718274855,77829
+His Dark Materials (His Dark Materials #1-3),Philip Pullman,Fantasy,Mass,1088,Very Long,2000,25,4.29,167987,12.031647827262825,881,6.782192056006791,75520
+The Silmarillion,J.R.R. Tolkien,Fantasy,Hardcover,386,Medium,1977,48,4.03,333395,12.717086251626379,904,6.807934943699926,75171
+"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones,Fantasy,Mass,329,Medium,1986,39,4.28,443998,13.003577589159573,877,6.777646593635117,74492
+"Shōgun (Asian Saga, #1)",James Clavell,Historical Fiction,Paperback,1152,Very Long,1975,50,4.41,211343,12.261242416663645,913,6.81783057145415,74385
+The Trial,Franz Kafka,Classics,Paperback,255,Medium,1925,100,3.94,391774,12.878442974391417,908,6.812345094177479,74356
+"Mockingjay (The Hunger Games, #3)",Suzanne Collins,Young Adult,Hardcover,390,Medium,2010,15,4.12,3690754,15.121341602133613,928,6.834108738813838,74348
+"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire,Fantasy,Paperback,406,Long,1995,30,3.51,681448,13.431976692395487,899,6.802394763324311,74274
+Schindler’s List,Thomas Keneally,History,Mass,429,Long,1982,43,4.34,165479,12.016605620575348,976,6.884486652042782,74224
+"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare,Fantasy,Hardcover,498,Long,2011,14,4.42,583951,13.277574066651614,869,6.76849321164863,73996
+Man's Search for Meaning,Viktor E. Frankl,Nonfiction,Paperback,165,Short,1946,79,4.37,867490,13.673360416109565,822,6.71295620067707,70572
+Extremely Loud & Incredibly Close,Jonathan Safran Foer,Fiction,Paperback,326,Medium,2005,20,3.97,434544,12.982054785643616,803,6.6895992691789665,70430
+"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory,Historical Fiction,Paperback,661,Long,2001,24,4.09,512245,13.146560257383493,859,6.756932389247553,69732
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,Horror,Paperback,421,Long,1988,37,4.26,586565,13.28204047271373,895,6.79794041297493,69637
+The Green Mile,Stephen  King,Horror,Paperback,592,Long,1996,29,4.49,360790,12.796054122291856,883,6.784457062637643,69330
+The Sun Also Rises,Ernest Hemingway,Classics,Paperback,189,Short,1926,99,3.79,491754,13.105735903967789,879,6.779921907472252,68889
+"Fallen (Fallen, #1)",Lauren Kate,Fantasy,Hardcover,464,Long,2009,16,3.72,616771,13.332254704610703,793,6.677083461247136,68488
+"Last Sacrifice (Vampire Academy, #6)",Richelle Mead,Young Adult,Hardcover,594,Long,2010,15,4.36,299219,12.608934367768223,799,6.684611727667927,67961
+A Confederacy of Dunces,John Kennedy Toole,Fiction,Paperback,394,Medium,1980,45,3.89,296845,12.600968764789103,784,6.665683717782408,67565
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,Paperback,1216,Very Long,2001,24,4.54,727956,13.497997259500297,810,6.698268054115413,67524
+The Screwtape Letters,C.S. Lewis,Fiction,Kindle,222,Medium,1942,83,4.27,516449,13.15473375743478,819,6.709304340258299,66854
+"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,Fantasy,Kindle,561,Long,2016,9,4.57,763579,13.545773178767305,727,6.590301048196686,66785
+Misery,Stephen  King,Horror,Paperback,370,Medium,1987,38,4.23,842056,13.643602986895191,846,6.741700694652055,65865
+The Crucible,Arthur Miller,Classics,Paperback,143,Short,1953,72,3.61,462072,13.043478166239831,874,6.774223886357614,65558
+Cat’s Cradle,Kurt Vonnegut Jr.,Fiction,Paperback,306,Medium,1963,62,4.15,435487,12.984222520360044,803,6.6895992691789665,65503
+The Secret Magdalene,Ki Longfellow,Historical Fiction,Hardcover,448,Long,2005,20,4.14,4737,8.463370384718731,670,6.508769136971682,65329
+American Psycho,Bret Easton Ellis,Fiction,Paperback,399,Medium,1991,34,3.8,359839,12.793414767193143,758,6.6320017773956295,65193
+The Wind in the Willows,Kenneth Grahame,Classics,Paperback,197,Short,1908,117,4.02,239631,12.386859692232177,866,6.7650389767805414,65135
+A Light in the Attic,Shel Silverstein,Poetry,Hardcover,176,Short,1981,44,4.36,475201,13.071495255775924,852,6.748759547491679,64610
+The Phantom of the Opera,Gaston Leroux,Classics,Mass,360,Medium,1910,115,3.96,275644,12.526869084909004,815,6.704414354964107,63607
+"Spirit Bound (Vampire Academy, #5)",Richelle Mead,Young Adult,Hardcover,489,Long,2010,15,4.32,307108,12.634958012414337,754,6.626717749249025,63571
+"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,Fantasy,Paperback,1009,Very Long,1998,27,4.42,1016490,13.831867058100865,782,6.663132695990803,63497
+Blindness,José Saramago,Fiction,Kindle,349,Medium,1995,30,4.18,335611,12.723711009789325,730,6.594413459749778,63184
+"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare,Fantasy,Hardcover,425,Long,2011,14,4.07,638513,13.366898880604328,782,6.663132695990803,63084
+"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,Fantasy,Paperback,398,Medium,1954,71,4.41,3127738,14.955820937268339,773,6.651571873589727,62975
+The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,Nonfiction,Mass,242,Medium,1971,54,4.48,354673,12.778954336693587,755,6.628041376179533,62965
+The God of Small Things,Arundhati Roy,Fiction,Paperback,321,Medium,1997,28,3.96,323722,12.687643490834708,737,6.6039438246004725,62767
+"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,Fantasy,Hardcover,1007,Very Long,2010,15,4.66,660789,13.401191367902484,659,6.492239835020471,62397
+The House of the Spirits,Isabel Allende,Fiction,Paperback,448,Long,1982,43,4.3,316790,12.665997529427953,769,6.646390514847729,61983
+"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine,Fantasy,Paperback,240,Medium,1997,28,4.02,423571,12.956478790430252,763,6.638567789166521,61836
+The Chain Between Worlds (The Lost Artefacts #1),Johnathon Nicolaou,Fantasy,ebook,335,Medium,2021,4,4.41,1237,7.121252453244542,615,6.423246963533519,61459
+Girl with a Pearl Earring,Tracy Chevalier,Historical Fiction,Paperback,233,Medium,1999,26,3.93,778654,13.565323351273188,795,6.679599185844383,60596
+The Wind-Up Bird Chronicle,Haruki Murakami,Fiction,Paperback,607,Long,1994,31,4.14,313468,12.655455750593243,672,6.511745329644728,59764
+"Uglies (Uglies, #1)",Scott Westerfeld,Young Adult,Paperback,425,Long,2005,20,3.84,706835,13.468553951916675,713,6.570882962339584,59715
+Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,Nonfiction,Hardcover,291,Medium,2005,20,4.14,476647,13.074533551962014,748,6.618738983517219,59580
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,Historical Fiction,Paperback,291,Medium,2008,17,4.19,806930,13.600993441737858,731,6.595780513961311,59398
+Norwegian Wood,Haruki Murakami,Fiction,Paperback,296,Medium,1987,38,3.99,723316,13.491602855948425,676,6.517671272912275,59202
+Speak,Laurie Halse Anderson,Young Adult,Hardcover,224,Medium,1999,26,4.05,629758,13.353092485498205,703,6.556778356158042,57987
+Paper Towns,John Green,Young Adult,Paperback,305,Medium,2008,17,3.7,1483865,14.210161402136531,680,6.523562306149512,57835
+She’s Come Undone,Wally Lamb,Fiction,Mass,465,Long,1992,33,3.92,361915,12.799167419682593,698,6.54965074223381,57456
+"The Cruel Prince (The Folk of the Air, #1)",Holly Black,Fantasy,Hardcover,370,Medium,2018,7,4.01,1708221,14.350963621465224,628,6.444131256700441,57271
+"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater,Young Adult,Hardcover,392,Medium,2009,16,3.76,496041,13.11441587954149,665,6.501289670540389,57084
+Room,Emma Donoghue,Fiction,Kindle,321,Medium,2010,15,4.08,832530,13.632225737380685,671,6.51025834052315,56865
+The Shack: Where Tragedy Confronts Eternity,William Paul Young,Fiction,Kindle,294,Medium,2007,18,3.84,690236,13.444790295859159,676,6.517671272912275,56652
+Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,Fiction,Paperback,204,Medium,1971,54,4.06,377020,12.84005616779657,686,6.532334292222349,56519
+The Complete Calvin and Hobbes,Bill Watterson,Comics,Hardcover,1456,Very Long,2005,20,4.81,42051,10.646662226695721,706,6.561030665896573,56493
+"Marked (House of Night, #1)",P.C. Cast,Young Adult,Paperback,306,Medium,2007,18,3.82,522002,13.165428613974697,664,6.499787040655854,56441
+Kafka on the Shore,Haruki Murakami,Fiction,Paperback,467,Long,2002,23,4.12,544787,13.208152007143136,639,6.461468176353717,56427
+The Sound and the Fury,William Faulkner,Classics,Paperback,366,Medium,1929,96,3.86,195399,12.182804018590819,703,6.556778356158042,56237
+"Shatter Me (Shatter Me, #1)",Tahereh Mafi,Fantasy,Hardcover,338,Medium,2011,14,3.84,1208459,14.004857379694982,631,6.448889394146858,56227
+For Whom the Bell Tolls,Ernest Hemingway,Classics,Paperback,471,Long,1940,85,3.99,316927,12.666429897724104,770,6.647688373563329,56170
+Island of the Blue Dolphins,Scott O'Dell,Fiction,Kindle,194,Short,1960,65,3.88,349083,12.763067859903014,712,6.569481420414296,55249
+The Idiot,Fyodor Dostoevsky,Classics,Paperback,667,Long,1869,156,4.21,215585,12.281115180843672,698,6.54965074223381,55195
+The Virgin Suicides,Jeffrey Eugenides,Fiction,Paperback,250,Medium,1993,32,3.78,409765,12.923341544043836,659,6.492239835020471,54796
+Stranger in a Strange Land,Robert A. Heinlein,Science Fiction,Paperback,525,Long,1961,64,3.92,326124,12.69503602243903,686,6.532334292222349,54721
+"Inkheart (Inkworld, #1)",Cornelia Funke,Fantasy,Paperback,563,Long,2003,22,3.93,442125,12.999350188309013,687,6.5337888379333435,54434
+Roots: The Saga of an American Family,Alex Haley,Historical Fiction,Mass,729,Long,1976,49,4.45,164605,12.01131001856561,715,6.573680166960646,54368
+Into the Wild,Jon Krakauer,Nonfiction,Paperback,207,Medium,1996,29,4.02,1186320,13.986367479591477,683,6.52795791762255,54111
+"Wonder (Wonder, #1)",R.J. Palacio,Fiction,Hardcover,315,Medium,2012,13,4.36,1189332,13.98890320374483,630,6.447305862541213,54045
+East of Eden,John Steinbeck,Classics,Paperback,601,Long,1952,73,4.44,631076,13.355183162604625,633,6.452048954437226,53844
+"Neverwhere (London Below, #1)",Neil Gaiman,Fantasy,Paperback,370,Medium,1996,29,4.16,560552,13.236679075453958,645,6.470799503782602,52930
+Never Let Me Go,Kazuo Ishiguro,Fiction,Paperback,288,Medium,2005,20,3.85,846553,13.648929270605755,633,6.452048954437226,52722
+"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice,Horror,Mass,481,Long,1985,40,4.11,216105,12.283524307033186,675,6.516193076042964,52631
+"Ready Player One (Ready Player One, #1)",Ernest Cline,Science Fiction,Hardcover,480,Long,2011,14,4.23,1292549,14.072127569336022,595,6.39024066706535,52535
+"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,Fantasy,Hardcover,419,Long,2015,10,4.16,4123886,15.232306723161626,599,6.396929655216146,52402
+"The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",Stieg Larsson,Fiction,Hardcover,566,Long,2007,18,4.24,774003,13.559332320517166,673,6.513230110912307,52345
+"Mistborn: The Final Empire (Mistborn, #1)",Brandon Sanderson,Fantasy,Hardcover,541,Long,2006,19,4.49,957227,13.77179688657348,575,6.3561076606958915,52218
+The Things They Carried,Tim O'Brien,Fiction,Paperback,246,Medium,1990,35,4.14,343495,12.746930745744134,632,6.450470422144176,52217
+"Foundation (Foundation, #1)",Isaac Asimov,Science Fiction,Hardcover,244,Medium,1951,74,4.17,593314,13.293480734246373,631,6.448889394146858,51564
+"Delirium (Delirium, #1)",Lauren Oliver,Young Adult,Paperback,441,Long,2011,14,3.95,478596,13.078614186154274,591,6.3835066348840055,51470
+White Oleander,Janet Fitch,Fiction,Mass,446,Long,1999,26,4.0,365968,12.81030390934275,641,6.464588303689961,51442
+"Beautiful Disaster (Beautiful, #1)",Jamie McGuire,Romance,Kindle,432,Long,2011,14,4.0,707151,13.469000914698906,577,6.359573868672378,51085
+"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan,Fantasy,Hardcover,586,Long,2012,13,4.47,670880,13.416347052983015,618,6.428105272684596,50535
+"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan,Fantasy,Hardcover,521,Long,2011,14,4.4,663833,13.405787397203362,634,6.453624998892692,50528
+All the Light We Cannot See,Anthony Doerr,Historical Fiction,Hardcover,531,Long,2014,11,4.31,1957337,14.487095944801721,578,6.361302477572996,50170
+Uncle Tom’s Cabin,Harriet Beecher Stowe,Classics,Paperback,438,Long,1852,173,3.92,242118,12.397184619813714,701,6.553933404025811,50098
+Blood River: A Journey to Africa’s Broken Heart,Tim Butcher,Travel,Paperback,363,Medium,2007,18,3.98,12032,9.395408154438163,507,6.230481447578482,50012
+The Martian,Andy Weir,Science Fiction,Hardcover,384,Medium,2011,14,4.42,1277104,14.060106355596883,584,6.371611847231857,49706
+"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly  Jackson,Mystery,Paperback,433,Long,2019,6,4.29,1740069,14.36943590026657,529,6.272877006546167,49582
+James and the Giant Peach,Roald Dahl,Childrens,Hardcover,176,Short,1961,64,4.04,513942,13.149867643346369,692,6.541029999189903,49343
+"The Once and Future King (The Once and Future King, #1-5)",T.H. White,Fantasy,Mass,639,Long,1958,67,4.07,117537,11.674516964537785,618,6.428105272684596,49229
+Midnight Sun [2008 Draft],Stephenie Meyer,Young Adult,ebook,264,Medium,2008,17,4.01,148876,11.910875740656365,578,6.361302477572996,49120
+I Know This Much Is True,Wally Lamb,Fiction,Paperback,897,Very Long,1998,27,4.21,325363,12.692699834579791,582,6.368187186350492,48684
+"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot,Nonfiction,Mass,437,Long,1972,53,4.35,157938,11.96996416151323,649,6.476972362889683,48645
+The Time Machine,H.G. Wells,Classics,Paperback,118,Short,1895,130,3.89,562780,13.240645843879932,682,6.52649485957079,48562
+Invisible Man,Ralph Ellison,Classics,Paperback,581,Long,1952,73,3.92,201413,12.213117770256812,613,6.419994928147142,48076
+"Heidi (Heidi, #1-2)",Johanna Spyri,Classics,Paperback,352,Medium,1880,145,4.04,210715,12.258266534260871,669,6.507277712385012,48050
+"Me Before You (Me Before You, #1)",Jojo Moyes,Romance,Hardcover,369,Medium,2012,13,4.26,1791083,14.398331581115553,556,6.322565239927284,47861
+The Historian,Elizabeth Kostova,Historical Fiction,Kindle,704,Long,2005,20,3.8,276111,12.52856185948736,577,6.359573868672378,47793
+Flow Down Like Silver,Ki Longfellow,Historical Fiction,Paperback,301,Medium,2009,16,4.01,4510,8.414274137408396,494,6.20455776256869,47789
+The Thirteenth Tale,Diane Setterfield,Fiction,Hardcover,406,Long,2006,19,3.98,326086,12.694919495910714,577,6.359573868672378,47637
+"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,Fantasy,Hardcover,994,Very Long,2011,14,4.55,617258,13.333043987903071,525,6.26530121273771,47361
+"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,Fiction,Paperback,444,Long,2002,23,4.22,181502,12.109027461476062,524,6.263398262591624,46813
+"Fourth Wing (The Empyrean, #1)",Rebecca Yarros,Fantasy,Hardcover,517,Long,2023,2,4.57,3435543,15.04968584082286,500,6.2166061010848646,46749
+"Walden or, Life in the Woods",Henry David Thoreau,Classics,Paperback,352,Medium,1854,171,3.77,203683,12.22432505224726,621,6.432940092739179,46327
+Leaves of Grass,Walt Whitman,Poetry,Paperback,624,Long,1855,170,4.11,116283,11.663790753805957,631,6.448889394146858,46220
+"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare,Fantasy,Hardcover,535,Long,2012,13,4.21,565242,13.245011006162606,575,6.3561076606958915,46206
+"Are You There God? It’s Me, Margaret",Judy Blume,Young Adult,Hardcover,149,Short,1970,55,3.95,255117,12.449481462205108,617,6.42648845745769,46079
+The Complete Maus,Art Spiegelman,Graphic Novels,Paperback,296,Medium,1980,45,4.58,252493,12.439142765038984,577,6.359573868672378,45994
+"Graceling (Graceling Realm, #1)",Kristin Cashore,Fantasy,Hardcover,471,Long,2008,17,4.06,479722,13.080964132974065,545,6.302618975744905,45941
+Different Seasons,Stephen  King,Horror,Mass,560,Long,1982,43,4.36,220507,12.30368925439003,614,6.421622267806518,45851
+The Cider House Rules,John Irving,Fiction,Hardcover,1064,Very Long,1985,40,4.17,195157,12.181564765875622,602,6.401917196727186,44699
+Fangirl,Rainbow Rowell,Young Adult,ebook,483,Long,2013,12,3.94,778763,13.565463326450296,509,6.234410725718371,43861
+Mrs. Dalloway,Virginia Woolf,Classics,Hardcover,194,Short,1925,100,3.78,354365,12.778085556316253,570,6.3473892096560105,43859
+"Legend (Legend, #1)",Marie Lu,Dystopia,Hardcover,305,Medium,2011,14,4.15,562352,13.239885045573873,502,6.220590170099739,43817
+"Ignite Me (Shatter Me, #3)",Tahereh Mafi,Fantasy,Kindle,408,Long,2014,11,4.45,665128,13.407736285787747,480,6.175867270105761,43275
+Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,Fiction,Hardcover,416,Long,1987,38,4.28,325775,12.693965307611649,592,6.385194398997726,42742
+Do Androids Dream of Electric Sheep?,Philip K. Dick,Science Fiction,ebook,258,Medium,1968,57,4.09,509677,13.141534432751907,547,6.306275286948016,42741
+Sophie’s World,Jostein Gaarder,Philosophy,Paperback,403,Long,1991,34,3.97,280917,12.545818090782998,517,6.249975242259483,42647
+"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,Classics,Mass,256,Medium,1902,123,4.13,385984,12.863553787588268,589,6.380122536899765,42587
+"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz,Young Adult,Hardcover,390,Medium,2012,13,4.29,673422,13.420128940159996,457,6.126869184114185,41889
+A Little Life,Hanya Yanagihara,Fiction,Hardcover,720,Long,2015,10,4.28,913757,13.725321045137758,443,6.095824562432225,41853
+The Awakening,Kate Chopin,Classics,Paperback,195,Short,1899,126,3.69,226536,12.330663565972573,533,6.280395838960195,41814
+The Graveyard Book,Neil Gaiman,Fantasy,Hardcover,312,Medium,2008,17,4.15,565410,13.245308179305294,515,6.246106765481563,40947
+"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,Fiction,Paperback,215,Medium,1958,67,3.74,410817,12.925905573019158,530,6.274762021241939,40872
+Black Beauty,Anna Sewell,Classics,Mass,245,Medium,1877,148,4.0,297522,12.603246811903857,589,6.380122536899765,40852
+Middlemarch,George Eliot,Classics,Mass,912,Very Long,1872,153,4.04,178527,12.092500730645256,512,6.240275845170769,40806
+Stardust,Neil Gaiman,Fantasy,Paperback,248,Medium,1999,26,4.1,480316,13.082201581571619,521,6.257667587882639,40579
+"Fifty Shades Darker (Fifty Shades, #2)",E.L. James,Romance,Paperback,532,Long,2011,14,3.83,971729,13.786833267077405,479,6.173786103901937,40385
+The Wasp Factory,Iain Banks,Fiction,Paperback,184,Short,1984,41,3.75,108187,11.591625733513894,458,6.129050210060545,40185
+Number the Stars,Lois Lowry,Historical Fiction,Mass,137,Short,1989,36,4.19,617653,13.333683709103626,525,6.26530121273771,40086
+Sophie’s Choice,William Styron,Fiction,Paperback,562,Long,1979,46,4.17,94323,11.45449094313306,544,6.300785794663244,39884
+The Prince of Tides,Pat Conroy,Fiction,Paperback,679,Long,1986,39,4.26,216017,12.283117016527607,525,6.26530121273771,39868
+"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris,Fantasy,Mass,292,Medium,2001,24,3.97,559853,13.23543131443374,504,6.22455842927536,39725
+"A Time to Kill (Jake Brigance, #1)",John Grisham,Fiction,Mass,738,Long,1989,36,4.12,825126,13.623292592863304,535,6.284134161070802,39582
+"The Magician’s Nephew (Chronicles of Narnia, #6)",C.S. Lewis,Fantasy,Mass,221,Medium,1955,70,4.05,601777,13.30764388551418,548,6.3080984415095305,39384
+War and Peace,Leo Tolstoy,Classics,Paperback,1392,Very Long,1869,156,4.17,364134,12.805279956981096,476,6.1675164908883415,39159
+V for Vendetta,Alan             Moore,Graphic Novels,Hardcover,296,Medium,1990,35,4.26,324197,12.689109719233223,512,6.240275845170769,39048
+"Bridget Jones’s Diary (Bridget Jones, #1)",Helen Fielding,Fiction,Hardcover,288,Medium,1996,29,3.81,1020632,13.8359335810105,537,6.2878585601617845,39008
+The Art of Racing in the Rain,Garth Stein,Fiction,Hardcover,336,Medium,2008,17,4.23,552563,13.222324542769519,458,6.129050210060545,38789
+Eleanor & Park,Rainbow Rowell,Young Adult,Hardcover,328,Medium,2012,13,3.92,1254307,14.042094584051902,450,6.111467339502679,38535
+White Fang,Jack London,Classics,Paperback,252,Medium,1906,119,4.03,206399,12.237571312589544,547,6.306275286948016,38482
+Franny and Zooey,J.D. Salinger,Classics,Paperback,201,Medium,1957,68,3.96,239143,12.384821159937346,485,6.186208623900494,37973
+"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan,Fantasy,Hardcover,597,Long,2013,12,4.57,479902,13.081339279129152,466,6.1463292576688975,37911
+The Witches,Roald Dahl,Fantasy,Paperback,208,Medium,1983,42,4.18,426861,12.964216054963522,506,6.2285110035911835,37861
+"Allegiant (Divergent, #3)",Veronica Roth,Young Adult,Hardcover,531,Long,2013,12,3.6,1137584,13.944418152290174,469,6.152732694704104,37735
+A Short History of Nearly Everything,Bill Bryson,Nonfiction,Paperback,544,Long,2003,22,4.22,420579,12.949389990002695,454,6.12029741895095,37478
+"The Gunslinger (The Dark Tower, #1)",Stephen  King,Fantasy,Paperback,231,Medium,1982,43,3.91,661170,13.401767784318022,461,6.135564891081739,37413
+"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,Fantasy,Mass,800,Long,1990,35,4.19,589456,13.2869570531269,435,6.077642243349034,37151
+The Complete Novels,Jane Austen,Classics,Paperback,1344,Very Long,1981,44,4.57,33987,10.433762800123432,501,6.218600119691729,37096
+"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,Fantasy,Paperback,626,Long,2016,9,4.64,3139175,14.959470903064018,402,5.998936561946683,37063
+"If I Stay (If I Stay, #1)",Gayle Forman,Young Adult,Hardcover,208,Medium,2009,16,3.91,964420,13.77928320024909,445,6.100318952020064,36807
+"The Power of One (The Power of One, #1)",Bryce Courtenay,Fiction,Paperback,544,Long,1989,36,4.36,94211,11.453302840986256,421,6.045005314036012,36712
+"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas,Fantasy,Hardcover,565,Long,2014,11,4.45,1528894,14.240055810218287,420,6.042632833682381,36405
+11/22/63,Stephen  King,Fiction,Hardcover,849,Very Long,2011,14,4.35,644624,13.37642403135326,433,6.073044534100405,36342
+The Grapes of Wrath,John Steinbeck,Classics,Hardcover,496,Long,1939,86,4.03,989564,13.805020731609575,475,6.16541785423142,36186
+Tuck Everlasting,Natalie Babbitt,Fantasy,Paperback,148,Short,1975,50,3.91,294457,12.59289165730233,491,6.198478716492308,36058
+"It Ends with Us (It Ends with Us, #1)",Colleen Hoover,Romance,Kindle,386,Medium,2016,9,4.08,4551575,15.330984104580011,384,5.953243334287785,35505
+Where the Crawdads Sing,Delia Owens,Fiction,ebook,384,Medium,2018,7,4.37,3585302,15.092353547272795,404,6.003887067106539,35378
+Circe,Madeline Miller,Fantasy,Hardcover,393,Medium,2018,7,4.22,1333891,14.103611542660067,403,6.0014148779611505,35345
+’Salem’s Lot,Stephen  King,Horror,Paperback,483,Long,1975,50,4.1,655928,13.393807830361435,473,6.161207321695077,35337
+"A Child Called ""It"" (Dave Pelzer, #1)",Dave Pelzer,Nonfiction,Paperback,184,Short,1995,30,4.14,459499,13.03789422077788,451,6.113682179832232,35299
+"Fifty Shades Freed (Fifty Shades, #3)",E.L. James,Romance,Paperback,579,Long,2012,13,3.83,910592,13.721851314614089,421,6.045005314036012,35212
+Bel Canto,Ann Patchett,Fiction,Paperback,318,Medium,2001,24,3.94,320627,12.678036851588544,428,6.061456918928017,35119
+The Collector,John Fowles,Fiction,Paperback,283,Medium,1963,62,3.97,92945,11.439773958334419,420,6.042632833682381,35005
+A Portrait of the Artist as a Young Man,James Joyce,Classics,Paperback,329,Medium,1916,109,3.64,163594,12.005149140336558,460,6.133398042996649,34757
+Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Classics,Mass,139,Short,1886,139,3.83,661644,13.40248443730723,500,6.2166061010848646,34667
+Cloud Atlas,David  Mitchell,Fiction,Paperback,509,Long,2004,21,4.01,266822,12.494340796204556,413,6.025865973825314,34222
+The Hunchback of Notre-Dame,Victor Hugo,Classics,Paperback,510,Long,1831,194,4.02,217371,12.28936545052627,492,6.20050917404269,34126
+As I Lay Dying,William Faulkner,Classics,Paperback,288,Medium,1930,95,3.72,186213,12.134651828968554,454,6.12029741895095,34118
+The Tell-Tale Heart and Other Writings,Edgar Allan Poe,Classics,Mass,448,Long,1843,182,4.19,244526,12.407081011248033,498,6.212606095751519,34065
+Cold Mountain,Charles Frazier,Historical Fiction,Paperback,449,Long,1997,28,3.89,249655,12.427839249287057,463,6.139884552226255,33956
+Mansfield Park,Jane Austen,Classics,Paperback,488,Long,1814,211,3.86,378368,12.843625188913851,482,6.180016653652572,33881
+Go Ask Alice,Beatrice Sparks,Young Adult,Paperback,213,Medium,1971,54,3.74,291410,12.582489920829675,453,6.118097198041348,33780
+"Eldest (The Inheritance Cycle, #2)",Christopher Paolini,Fantasy,Paperback,704,Long,2005,20,4.05,489575,13.10129498937091,432,6.07073772800249,33544
+The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,Hardcover,448,Long,2020,5,4.17,1481087,14.208287510795955,369,5.91350300563827,33336
+A Separate Peace,John Knowles,Classics,Paperback,208,Medium,1959,66,3.6,231744,12.353392908222327,452,6.115892125483034,33246
+The BFG,Roald Dahl,Fantasy,Paperback,199,Short,1982,43,4.23,524615,13.170421845377948,446,6.102558594613569,33214
+The Martian Chronicles,Ray Bradbury,Science Fiction,Mass,182,Short,1950,75,4.16,284688,12.55915263535777,442,6.093569770045136,33157
+Less Than Zero,Bret Easton Ellis,Fiction,Paperback,208,Medium,1985,40,3.61,98639,11.499232137838225,371,5.918893854273146,33135
+Steppenwolf,Hermann Hesse,Fiction,Paperback,256,Medium,1927,98,4.13,213938,12.273446206641475,423,6.049733455231958,33093
+"Red Queen (Red Queen, #1)",Victoria Aveyard,Fantasy,Hardcover,388,Medium,2015,10,3.98,1161798,13.965480223806853,377,5.934894195619588,33087
+"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini,Fantasy,Hardcover,748,Long,2008,17,4.11,413390,12.932149155310672,428,6.061456918928017,33069
+"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward,Romance,Mass,393,Medium,2005,20,4.15,354149,12.777475831181768,390,5.968707559985366,33001
+Requiem for a Dream,Hubert Selby Jr.,Fiction,Paperback,279,Medium,1978,47,4.11,64945,11.081311434367002,372,5.921578419643816,32985
+"Blood Meridian, or, the Evening Redness in the West",Cormac McCarthy,Fiction,Paperback,351,Medium,1985,40,4.15,217442,12.289692026199287,374,5.926926025970411,32838
+"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia,Fantasy,Hardcover,563,Long,2009,16,3.77,620330,13.338008485530612,406,6.008813185442595,32758
+"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,Fantasy,Hardcover,352,Medium,2011,14,3.92,1352800,14.117687815773804,410,6.018593214496234,32541
+The Remains of the Day,Kazuo Ishiguro,Fiction,Paperback,258,Medium,1989,36,4.14,357128,12.785852340030376,439,6.0867747269123065,32432
+"Obsidian (Lux, #1)",Jennifer L. Armentrout,Young Adult,Paperback,335,Medium,2011,14,4.13,295739,12.597235968927478,363,5.8971538676367405,32105
+"Stargirl (Stargirl, #1)",Jerry Spinelli,Young Adult,Paperback,186,Short,2000,25,3.77,335913,12.724610453802988,388,5.963579343618446,32093
+Coraline,Neil Gaiman,Fantasy,Paperback,208,Medium,2002,23,4.13,778592,13.565243723622316,412,6.023447592961033,31747
+The Amazing Adventures of Kavalier & Clay,Michael Chabon,Fiction,Paperback,639,Long,2000,25,4.19,212187,12.265227953138856,391,5.971261839790462,31714
+"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare,Fantasy,Hardcover,725,Long,2014,11,4.38,414312,12.934377005801544,393,5.976350909297934,31402
+"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,Fantasy,Mass,465,Long,2000,25,4.11,382447,12.854347975294582,403,6.0014148779611505,31376
+"The Talented Mr. Ripley (Ripley, #1)",Patricia Highsmith,Fiction,Paperback,271,Medium,1955,70,3.95,115992,11.661285123440093,357,5.8805329864007,31288
+The Plague,Albert Camus,Classics,Paperback,308,Medium,1947,78,4.02,312374,12.651959668137254,420,6.042632833682381,31171
+"Girl, Interrupted",Susanna Kaysen,Nonfiction,Paperback,169,Short,1993,32,3.94,276448,12.529781634468888,357,5.8805329864007,31100
+Doctor Zhivago,Boris Pasternak,Classics,Paperback,592,Long,1957,68,4.01,102634,11.53893428415128,465,6.144185634125646,31043
+زندگی مه آلود پریا,سید مرتضی مصطفوی,Fiction,ebook,204,Medium,2013,12,3.34,1032,6.940222469119639,311,5.7430031878094825,30907
+Dear John,Nicholas Sparks,Romance,Hardcover,276,Medium,2006,19,4.04,617266,13.333056948342948,394,5.978885764901122,30827
+"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig,Philosophy,Mass,540,Long,1974,51,3.78,244623,12.407477616800396,391,5.971261839790462,30754
+"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,Fantasy,Hardcover,420,Long,2013,12,4.36,1723748,14.360012127958951,369,5.91350300563827,30716
+The English Patient,Michael Ondaatje,Fiction,Hardcover,320,Medium,1992,33,3.86,138982,11.842106902475036,420,6.042632833682381,30642
+Midnight’s Children,Salman Rushdie,Fiction,Paperback,647,Long,1981,44,3.97,132563,11.794820826660276,371,5.918893854273146,30386
+The Nightingale,Kristin Hannah,Historical Fiction,Hardcover,564,Long,2015,10,4.65,2056301,14.536419781929864,343,5.840641657373398,30225
+Like Water for Chocolate,Laura Esquivel,Fiction,Paperback,258,Medium,1989,36,3.95,393451,12.882714357188233,424,6.052089168924417,30116
+The Last Song,Nicholas Sparks,Romance,Paperback,390,Medium,2009,16,4.16,571039,13.255214538723987,371,5.918893854273146,30114
+All the Bright Places,Jennifer Niven,Young Adult,Hardcover,388,Medium,2015,10,4.11,625469,13.346258646108211,328,5.796057750765372,30108
+"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas,Fantasy,Hardcover,648,Long,2015,10,4.62,1374729,14.133767906164582,348,5.855071922202427,30066
+Last Exit to Brooklyn,Hubert Selby Jr.,Fiction,Paperback,290,Medium,1964,61,3.93,30145,10.313807523370475,337,5.823045895483019,29881
+"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon,Historical Fiction,Paperback,947,Very Long,1992,33,4.34,383819,12.857928971672239,377,5.934894195619588,29870
+"The One (The Selection, #3)",Kiera Cass,Romance,Hardcover,323,Medium,2014,11,4.14,772983,13.558013628778367,351,5.863631175598097,29782
+"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick,Fantasy,Hardcover,427,Long,2010,15,3.98,336935,12.727648280319897,368,5.910796644040527,29768
+"Darkly Dreaming Dexter (Dexter, #1)",Jeff Lindsay,Fiction,Paperback,288,Medium,2004,21,3.9,218071,12.292580562471727,335,5.817111159963204,29551
+Midnight in the Garden of Good and Evil,John Berendt,Nonfiction,Paperback,386,Medium,1994,31,3.92,294208,12.592045678115964,424,6.052089168924417,29534
+A Streetcar Named Desire,Tennessee Williams,Plays,Paperback,107,Short,1947,78,3.98,333613,12.717739915013022,441,6.091309882077698,29393
+My Ántonia,Willa Cather,Classics,Paperback,219,Medium,1918,107,3.84,147126,11.899051438352934,399,5.991464547107982,29202
+Kill Your Friends,John Niven,Fiction,Paperback,323,Medium,2008,17,3.81,11912,9.38538551979936,322,5.777652323222656,28998
+Breakfast at Tiffany’s and Three Stories,Truman Capote,Classics,Paperback,142,Short,1958,67,3.85,250942,12.432981100691245,406,6.008813185442595,28993
+We Were Liars,E. Lockhart,Young Adult,Paperback,320,Medium,2014,11,3.65,1381796,14.138895383953276,322,5.777652323222656,28982
+Hidden Pictures,Jason Rekulak,Horror,Hardcover,372,Medium,2022,3,4.15,576268,13.264329844549872,309,5.736572297479192,28969
+American Tabloid (Underworld USA #1),James Ellroy,Fiction,Paperback,592,Long,1995,30,4.2,21182,9.960954252184457,320,5.771441123130016,28863
+Breakfast of Champions,Kurt Vonnegut Jr.,Fiction,Paperback,303,Medium,1973,52,4.06,278991,12.538938386557275,366,5.905361848054571,28740
+"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,Fantasy,Kindle,370,Medium,1997,28,4.15,458664,13.036075375079784,384,5.953243334287785,28725
+"Red, White & Royal Blue",Casey McQuiston,Romance,Paperback,448,Long,2019,6,4.05,1215105,14.010341873749708,320,5.771441123130016,28713
+Penance,Eliza  Clark,Fiction,ebook,336,Medium,2023,2,3.86,44708,10.707930102616903,321,5.7745515455444085,28696
+The Origin of Species,Charles Darwin,Science,Hardcover,703,Long,1859,166,4.01,121675,11.709117053283046,393,5.976350909297934,28570
+A Simple Plan,Scott        Smith,Fiction,Paperback,417,Long,1993,32,3.92,34363,10.444764783757947,321,5.7745515455444085,28565
+"The Inheritance Games (The Inheritance Games, #1)",Jennifer Lynn Barnes,Mystery,Hardcover,386,Medium,2020,5,4.12,1061399,13.875099349375931,314,5.752572638825633,28557
+A Fine Balance,Rohinton Mistry,Fiction,Paperback,603,Long,1995,30,4.38,159402,11.97919086573831,338,5.82600010738045,28349
+"The Hate U Give (The Hate U Give, #1)",Angie Thomas,Young Adult,Hardcover,454,Long,2017,8,4.45,1005561,13.821057147159133,326,5.7899601708972535,28294
+Persuasion,Jane Austen,Classics,Paperback,249,Medium,1817,208,4.15,771926,13.556645264950381,358,5.883322388488279,28217
+"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,Fiction,Paperback,389,Medium,1979,46,3.85,237029,12.375941994384888,374,5.926926025970411,28136
+The Quiet Tenant,Clémence Michallon,Thriller,Hardcover,303,Medium,2023,2,3.81,142757,11.868906167979484,312,5.746203190540153,28136
+Layer Cake,J.J. Connolly,Fiction,Paperback,344,Medium,2000,25,4.06,3108,8.042056410058754,311,5.7430031878094825,28105
+"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,Fantasy,Mass,1060,Very Long,2005,20,4.17,788825,13.578301043187793,367,5.908082938168931,28088
+"Hopeless (Hopeless, #1)",Colleen Hoover,Romance,Kindle,410,Long,2012,13,4.22,677586,13.426293236775846,316,5.75890177387728,28037
+City of God,Paulo Lins,Fiction,Paperback,448,Long,1997,28,3.99,3361,8.120291313968561,313,5.749392985908253,28032
+Winter's Bone,Daniel Woodrell,Fiction,Hardcover,225,Medium,2006,19,3.87,39797,10.591571938753612,310,5.739792912179234,27863
+The Killer Inside Me,Jim Thompson,Fiction,Paperback,244,Medium,1952,73,3.86,25950,10.163965423497029,312,5.746203190540153,27833
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,Nonfiction,Hardcover,475,Long,2010,15,4.39,993921,13.809414011734765,336,5.820082930352362,27814
+Infinite Jest,David Foster Wallace,Fiction,Paperback,1088,Very Long,1996,29,4.25,100995,11.522836191078742,304,5.720311776607412,27716
+Savages (Savages #2),Don Winslow,Fiction,Hardcover,302,Medium,2010,15,3.87,21557,9.978502256341574,307,5.730099782973575,27699
+"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor,Fantasy,Hardcover,418,Long,2011,14,3.99,384288,12.85915015267203,328,5.796057750765372,27688
+Clockers,Richard Price,Fiction,Paperback,608,Long,1992,33,4.09,10593,9.268043082104471,306,5.726847747587197,27486
+"The Host (The Host, #1)",Stephenie Meyer,Fantasy,Hardcover,619,Long,2008,17,3.86,1046949,13.861391733220463,338,5.82600010738045,27350
+Carrie,Stephen  King,Horror,Mass,272,Medium,1974,51,3.99,839699,13.640799964171654,385,5.955837369464831,27302
+"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,Classics,Mass,160,Short,1945,80,4.15,208861,12.249429025780088,400,5.993961427306569,27283
+Death of a Salesman,Arthur Miller,Classics,Hardcover,144,Short,1949,76,3.59,257920,12.4604086154641,419,6.040254711277414,27157
+"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou,Nonfiction,Paperback,289,Medium,1969,56,4.3,578578,13.268330376361535,377,5.934894195619588,27007
+"Evermore (The Immortals, #1)",Alyson Noel,Young Adult,Paperback,301,Medium,2009,16,3.6,298352,12.606032628203847,327,5.793013608384144,26983
+The Beach,Alex Garland,Fiction,Paperback,436,Long,1996,29,3.99,97581,11.488448329163067,305,5.723585101952381,26928
+The Scarlet Pimpernel,Emmuska Orczy,Classics,Paperback,182,Short,1905,120,4.07,141377,11.859192433352428,347,5.8522024797744745,26769
+"L.A. Confidential (L.A. Quartet, #3)",James Ellroy,Fiction,Paperback,496,Long,1990,35,4.18,37081,10.520886955657799,300,5.707110264748875,26756
+Audition,Ryū Murakami,Horror,Hardcover,208,Medium,1997,28,3.52,18780,9.840600999480937,295,5.69035945432406,26751
+Trainspotting,Irvine Welsh,Fiction,Mass,344,Medium,1993,32,4.11,178261,12.091009657188694,297,5.697093486505405,26703
+"Hidden Bodies (You, #2)",Caroline Kepnes,Thriller,Paperback,448,Long,2016,9,3.75,90845,11.416921044236426,296,5.6937321388027,26656
+"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,Nonfiction,Hardcover,464,Long,2003,22,4.0,754747,13.534139197681506,348,5.855071922202427,26538
+Crash,J.G. Ballard,Fiction,Paperback,224,Medium,1973,52,3.6,29977,10.308219058290542,297,5.697093486505405,26448
+"[No Country for Old Men] (By: Cormac McCarthy) [published: December, 2007]",Cormac McCarthy,Fiction,Paperback,424,Long,2005,20,4.17,244718,12.407865892513723,294,5.68697535633982,26432
+Snow Flower and the Secret Fan,Lisa See,Historical Fiction,Kindle,288,Medium,2005,20,4.09,386894,12.86590861736912,336,5.820082930352362,26374
+"The Black Dahlia Ellroy, James ( Author ) Aug-01-2006 Paperback",James Ellroy,Mystery,Paperback,424,Long,1987,38,3.78,95806,11.47009103018308,291,5.676753802268282,26332
+"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas,Fantasy,Paperback,705,Long,2017,8,4.46,2650376,14.790212451994764,304,5.720311776607412,26299
+Jonathan Strange & Mr Norrell,Susanna Clarke,Fantasy,Paperback,1006,Very Long,2004,21,3.87,254309,12.446309274270561,325,5.786897381366708,26296
+"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,Fantasy,Paperback,396,Medium,2001,24,3.86,561429,13.238242379316155,341,5.834810737062605,26189
+"Faust, First Part",Johann Wolfgang von Goethe,Classics,Paperback,327,Medium,1808,217,3.83,85740,11.35908640325167,351,5.863631175598097,26155
+Sharp Objects,Gillian Flynn,Thriller,Paperback,254,Medium,2006,19,4.01,1212739,14.008392820350936,298,5.700443573390686,26137
+Northanger Abbey,Jane Austen,Classics,Paperback,260,Medium,1817,208,3.85,451111,13.019470924683105,380,5.942799375126701,26101
+Night,Elie Wiesel,Nonfiction,Paperback,120,Short,1956,69,4.38,1356094,14.120119804025512,323,5.780743515792329,25880
+High-Rise,J.G. Ballard,Fiction,Paperback,208,Medium,1975,50,3.61,38601,10.561059367582153,286,5.659482215759621,25736
+"Matched (Matched, #1)",Ally Condie,Young Adult,Hardcover,369,Medium,2010,15,3.62,813848,13.609530124091236,320,5.771441123130016,25727
+"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater,Fantasy,Hardcover,409,Long,2012,13,4.05,401150,12.9020931940118,295,5.69035945432406,25721
+"The Angel Experiment (Maximum Ride, #1)",James  Patterson,Young Adult,Mass,445,Long,2005,20,4.07,233051,12.359016883613451,315,5.755742213586912,25647
+Galveston,Nic Pizzolatto,Fiction,Hardcover,272,Medium,2010,15,3.74,16670,9.72142596194803,282,5.645446897643238,25584
+The Haunting of Hill House,Shirley Jackson,Horror,Paperback,182,Short,1959,66,3.81,390698,12.875692721531312,317,5.762051382780177,25568
+Local Woman Missing,Mary Kubica,Thriller,Paperback,356,Medium,2021,4,4.12,740975,13.515723515089732,271,5.605802066295998,25503
+The Goldfinch,Donna Tartt,Fiction,Hardcover,771,Long,2013,12,3.96,1034444,13.849375608973814,296,5.6937321388027,25472
+"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins,Romance,Hardcover,372,Medium,2010,15,3.96,464365,13.048428313378059,297,5.697093486505405,25464
+Waiting for Godot,Samuel Beckett,Plays,Paperback,109,Short,1951,74,3.84,221396,12.307712749029369,339,5.8289456176102075,25434
+High Fidelity,Nick Hornby,Fiction,Paperback,323,Medium,1995,30,3.9,214686,12.276936432429572,317,5.762051382780177,25370
+Angels Fall,Nora Roberts,Romance,Hardcover,391,Medium,2006,19,4.05,53487,10.88721260865988,282,5.645446897643238,25360
+To the Lighthouse,Virginia Woolf,Classics,Paperback,209,Medium,1927,98,3.81,213509,12.271438948961427,339,5.8289456176102075,25297
+"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis,Fantasy,Hardcover,248,Medium,1952,73,4.09,505540,13.133384421967648,365,5.902633333401366,25285
+The Shipping News,Annie Proulx,Fiction,Paperback,337,Medium,1993,32,3.88,152305,11.933646934036341,344,5.84354441703136,25094
+Emma,Jane Austen,Classics,Paperback,474,Long,1815,210,4.05,976423,13.791652197288984,331,5.805134968916488,25090
+"My Sister, the Serial Killer",Oyinkan Braithwaite,Fiction,Hardcover,226,Medium,2018,7,3.64,349521,12.764321785742158,280,5.638354669333745,25079
+"The Tales of Beedle the Bard (Hogwarts Library, #3)",J.K. Rowling,Fantasy,Hardcover,105,Short,2008,17,4.03,511221,13.14455921711318,361,5.891644211825771,25063
+"Sheever's Journal, Diary of a Poison Master",K.  Ritz,Fiction,Paperback,410,Long,2019,6,4.29,28063,10.242242895171909,265,5.583496308781699,25055
+Notes on an Execution,Danya Kukafka,Fiction,Hardcover,306,Medium,2022,3,4.04,142901,11.869914359621278,276,5.6240175061873385,24912
+"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,Fantasy,Mass,385,Medium,1955,70,4.58,1033333,13.848301025948347,341,5.834810737062605,24887
+Nineteen Minutes,Jodi Picoult,Fiction,Hardcover,440,Long,2007,18,4.18,419271,12.946275152965834,310,5.739792912179234,24787
+Pet Sematary,Stephen  King,Horror,Kindle,580,Long,1983,42,4.08,694118,13.45039869453032,336,5.820082930352362,24766
+"The Chosen (Reuven Malter, #1)",Chaim Potok,Fiction,Mass,291,Medium,1967,58,4.07,97102,11.483527549785668,336,5.820082930352362,24750
+"In Cold Blood by Truman Capote [Random,2002]",Truman Capote,Nonfiction,Hardcover,424,Long,1966,59,4.09,725474,13.494581891718857,274,5.616771097666572,24714
+"Neuromancer (Sprawl, #1)",William Gibson,Science Fiction,Kindle,268,Medium,1984,41,3.89,362378,12.8004459044521,306,5.726847747587197,24665
+Shantaram,Gregory David Roberts,Fiction,Paperback,936,Very Long,2003,22,4.28,238324,12.381390567361779,280,5.638354669333745,24647
+The Tesseract,Alex Garland,Fiction,Hardcover,273,Medium,1999,26,3.35,8094,8.999001866111735,273,5.6131281063880705,24622
+A Christmas Carol,Charles Dickens,Classics,Paperback,184,Short,1843,182,4.09,927800,13.740572549117696,355,5.87493073085203,24610
+"I, Robot (Robot, #0.1)",Isaac Asimov,Science Fiction,Hardcover,224,Medium,1950,75,4.21,377535,12.841421207362748,341,5.834810737062605,24585
+"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,Fantasy,Kindle,1125,Very Long,2011,14,4.34,735698,13.508576346669738,323,5.780743515792329,24463
+Houdini Heart,Ki Longfellow,Horror,Paperback,254,Medium,2011,14,3.84,5452,8.60392119492606,253,5.537334267018537,24357
+The Reader,Bernhard Schlink,Fiction,Hardcover,216,Medium,1995,30,3.79,230539,12.348179662155003,342,5.83773044716594,24321
+Redeeming Love,Francine  Rivers,Romance,Paperback,479,Long,1991,34,4.51,369100,12.818825598307294,276,5.6240175061873385,24304
+"The Lost Symbol (Robert Langdon, #3)",Dan    Brown,Fiction,Hardcover,509,Long,2009,16,3.76,652293,13.388250659520207,311,5.7430031878094825,24076
+"The Wicked King (The Folk of the Air, #2)",Holly Black,Fantasy,ebook,336,Medium,2019,6,4.27,1058627,13.872484288084568,273,5.6131281063880705,23874
+The Winter of Frankie Machine,Don Winslow,Crime,Hardcover,320,Medium,2006,19,4.19,13385,9.501964663660587,265,5.583496308781699,23865
+Tokyo: The Devil of Nanking,Mo Hayder,Horror,Paperback,496,Long,2004,21,3.94,13209,9.488729397516371,264,5.579729825986222,23806
+"The Queen of Nothing (The Folk of the Air, #3)",Holly Black,Fantasy,ebook,321,Medium,2019,6,4.33,953968,13.768386455143547,270,5.602118820879701,23565
+Libra,Don DeLillo,Fiction,Paperback,480,Long,1988,37,4.05,21103,9.957217874957095,261,5.568344503761097,23513
+The Age of Innocence,Edith Wharton,Classics,Paperback,293,Medium,1920,105,3.97,194762,12.179538713751633,325,5.786897381366708,23310
+"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket,Fiction,Paperback,162,Short,1999,26,4.02,567923,13.249742885933992,307,5.730099782973575,23261
+"Angels & Demons (Robert Langdon, #1)",Dan    Brown,Fiction,Paperback,736,Long,2000,25,3.95,3383737,15.034491573543074,301,5.71042701737487,23224
+Dubliners,James Joyce,Classics,Paperback,352,Medium,1914,111,3.83,175025,12.072689813298581,325,5.786897381366708,23191
+The Silent Patient,Alex Michaelides,Thriller,Hardcover,336,Medium,2019,6,4.17,3190140,14.975575674411168,265,5.583496308781699,23070
+The Waste Land,T.S. Eliot,Poetry,Paperback,288,Medium,1922,103,4.11,58964,10.98469932652407,322,5.777652323222656,22909
+"Voyager (Outlander, #3)",Diana Gabaldon,Historical Fiction,Paperback,870,Very Long,1993,32,4.39,329746,12.70608097273681,288,5.666426688112432,22404
+"City of Glass (The Mortal Instruments, #3)",Cassandra Clare,Fantasy,Hardcover,541,Long,2009,16,4.27,1012338,13.827774052973348,296,5.6937321388027,22362
+Sense and Sensibility,Jane Austen,Classics,Paperback,409,Long,1811,214,4.09,1289674,14.069900806611653,312,5.746203190540153,22320
+"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,Fantasy,Mass,447,Long,1954,71,4.5,1116708,13.925896524862317,312,5.746203190540153,22203
+The Jungle,Upton Sinclair,Classics,Paperback,335,Medium,1906,119,3.78,154217,11.946122464816282,307,5.730099782973575,22017
+"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,Romance,Mass,434,Long,2006,19,4.43,188909,12.149025990150898,266,5.58724865840025,21848
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,Fiction,Paperback,383,Medium,1996,29,3.86,567997,13.249873176570329,322,5.777652323222656,21846
+"Betrayed (House of Night, #2)",P.C. Cast,Young Adult,Paperback,310,Medium,2007,18,3.92,279500,12.540761149388421,285,5.655991810819852,21786
+Me Talk Pretty One Day,David Sedaris,Nonfiction,Paperback,272,Medium,2000,25,4.01,719213,13.485914228023502,295,5.69035945432406,21776
+"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,Fantasy,Paperback,288,Medium,1956,69,4.01,304102,12.625121738792725,319,5.768320995793772,21700
+Snow Falling on Cedars,David Guterson,Fiction,Paperback,460,Long,1994,31,3.86,193956,12.175391763993051,319,5.768320995793772,21683
+"Untamed (House of Night, #4)",P.C. Cast,Young Adult,Paperback,338,Medium,2008,17,3.94,244620,12.407465353006181,280,5.638354669333745,21497
+"I, Claudius (Claudius, #1)",Robert Graves,Historical Fiction,Paperback,469,Long,1934,91,4.24,72904,11.196912502750386,292,5.680172609017068,21466
+"The Exorcist (The Exorcist, #1)",William Peter Blatty,Horror,Mass,385,Medium,1971,54,4.21,270066,12.506425355345002,313,5.749392985908253,21438
+"The Elite (The Selection, #2)",Kiera Cass,Romance,Hardcover,336,Medium,2013,12,3.94,866949,13.672736583972819,268,5.594711379601839,21437
+"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,Fantasy,Hardcover,1088,Very Long,2014,11,4.76,481116,13.0838657627523,230,5.442417710521793,21411
+Everything is Illuminated,Jonathan Safran Foer,Fiction,Paperback,276,Medium,2002,23,3.89,183678,12.120944947847647,264,5.579729825986222,21367
+"We Need to Talk About Kevin by Shriver, Lionel. (Harper Perennial,2006) [Paperback]",Lionel Shriver,Fiction,Paperback,424,Long,2003,22,4.08,211759,12.263208836900983,235,5.4638318050256105,21097
+A Room with a View,E.M. Forster,Classics,Paperback,119,Short,1908,117,3.89,201054,12.211333781451644,320,5.771441123130016,21092
+World War Z: An Oral History of the Zombie War,Max Brooks,Horror,Hardcover,342,Medium,2006,19,4.02,565170,13.244883619205089,269,5.598421958998375,21039
+"Unravel Me (Shatter Me, #2)",Tahereh Mafi,Fantasy,Hardcover,480,Long,2013,12,4.1,752050,13.530559419781298,251,5.529429087511423,21023
+"The 5th Wave (The 5th Wave, #1)",Rick Yancey,Young Adult,Hardcover,457,Long,2013,12,4.0,478885,13.079217852242918,254,5.541263545158426,20891
+"A Discovery of Witches (All Souls, #1)",Deborah Harkness,Fantasy,Hardcover,592,Long,2011,14,4.02,554282,13.225430665624936,248,5.517452896464707,20843
+The War of the Worlds,H.G. Wells,Classics,Paperback,192,Short,1898,127,3.83,348221,12.760595486399588,314,5.752572638825633,20776
+"A ​Court of Silver Flames (A Court of Thorns and Roses, #4)",Sarah J. Maas,Fantasy,Hardcover,757,Long,2021,4,4.45,2038667,14.527807211385003,234,5.459585514144159,20717
+Bleak House,Charles Dickens,Classics,Paperback,1017,Very Long,1853,172,4.02,113844,11.642593153092266,286,5.659482215759621,20501
+"Chosen (House of Night, #3)",P.C. Cast,Young Adult,Paperback,307,Medium,2008,17,3.91,254249,12.446073313910807,269,5.598421958998375,20367
+"Unwind (Unwind, #1)",Neal Shusterman,Young Adult,Hardcover,337,Medium,2007,18,4.17,248400,12.422799654798252,237,5.472270673671475,20136
+The Woman in White,Wilkie Collins,Classics,Paperback,672,Long,1859,166,4.01,165575,12.017185582894054,289,5.66988092298052,20099
+The Complete Poems of Emily Dickinson,Emily Dickinson,Poetry,Paperback,716,Long,1890,135,4.28,106556,11.576435332224756,313,5.749392985908253,20074
+Brideshead Revisited,Evelyn Waugh,Classics,Paperback,351,Medium,1945,80,4.0,126169,11.745385482921787,271,5.605802066295998,20043
+North and South,Elizabeth Gaskell,Classics,Paperback,521,Long,1855,170,4.15,182608,12.115102533989726,261,5.568344503761097,19984
+"Shadow and Bone (Shadow and Bone, #1)",Leigh Bardugo,Fantasy,Hardcover,358,Medium,2012,13,3.92,1097350,13.90840965161687,241,5.488937726156687,19964
+انتحار فاشل,أحمد جمال الدين رمضان,Short Stories,Paperback,175,Short,2016,9,4.54,3320,8.108021221376747,203,5.318119993844216,19943
+"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas,Fantasy,Hardcover,689,Long,2016,9,4.63,1203944,14.001114222744368,234,5.459585514144159,19852
+"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,Science Fiction,Paperback,297,Medium,1968,57,4.18,335199,12.722482647590065,267,5.5909869805108565,19846
+Ugly Love,Colleen Hoover,Romance,Kindle,330,Medium,2014,11,3.99,2280338,14.639834674088748,220,5.3981627015177525,19758
+"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch,Fantasy,Kindle,752,Long,2006,19,4.3,338662,12.73276079162219,222,5.407171771460119,19701
+The God Delusion,Richard Dawkins,Nonfiction,Hardcover,374,Medium,2006,19,3.9,282503,12.551447988760426,250,5.5254529391317835,19648
+العصبي,أحمد جمال الدين رمضان,Short Stories,Paperback,165,Short,2016,9,4.59,2893,7.970394907191429,199,5.298317366548036,19551
+The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,Paperback,304,Medium,1969,56,4.1,218505,12.294568753094998,246,5.5093883366279774,19417
+Of Human Bondage,W. Somerset Maugham,Classics,Mass,684,Long,1915,110,4.16,61367,11.024643805639132,271,5.605802066295998,19415
+"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman,Romance,Paperback,248,Medium,2007,18,4.1,590808,13.289248063104916,212,5.3612921657094255,19415
+"Heartstopper: Volume One (Heartstopper, #1)",Alice Oseman,Romance,Paperback,288,Medium,2018,7,4.42,878024,13.685430346015982,220,5.3981627015177525,19407
+"The Iron King (The Iron Fey, #1)",Julie Kagawa,Fantasy,Paperback,363,Medium,2010,15,3.87,218300,12.293630123379582,237,5.472270673671475,19386
+Snow Crash,Neal Stephenson,Science Fiction,Kindle,559,Long,1992,33,4.01,297094,12.601807231958697,226,5.424950017481403,19190
+Those Empty Eyes,Charlie Donlea,Thriller,Hardcover,368,Medium,2023,2,4.15,90437,11.412419812038584,201,5.308267697401205,19110
+Vanity Fair,William Makepeace Thackeray,Classics,Paperback,867,Very Long,1847,178,3.81,132949,11.797728396671166,275,5.62040086571715,19080
+"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice,Horror,Paperback,1216,Very Long,1990,35,4.1,124052,11.72846417262438,256,5.54907608489522,19046
+The Love Hypothesis,Ali Hazelwood,Romance,Paperback,400,Medium,2021,4,4.1,1856020,14.433945506919445,210,5.351858133476067,19025
+"Bloodlines (Bloodlines, #1)",Richelle Mead,Young Adult,Hardcover,432,Long,2011,14,4.2,190868,12.159342607842193,242,5.493061443340548,18989
+"Caraval (Caraval, #1)",Stephanie Garber,Fantasy,Hardcover,407,Long,2016,9,3.97,859005,13.663531185808122,208,5.342334251964811,18945
+"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind,Fantasy,Mass,836,Very Long,1994,31,4.12,253307,12.442361418594071,227,5.429345628954441,18940
+"Powerless (The Powerless Trilogy, #1)",Lauren  Roberts,Fantasy,Kindle,526,Long,2023,2,4.16,901725,13.71206598349616,199,5.298317366548036,18915
+A Man Called Ove,Fredrik Backman,Fiction,Hardcover,337,Medium,2012,13,4.38,1202561,13.99996483888448,219,5.393627546352361,18838
+Far From the Madding Crowd,Thomas Hardy,Classics,Paperback,433,Long,1874,151,3.97,165703,12.017958343135358,270,5.602118820879701,18832
+Johnny Got His Gun,Dalton Trumbo,Fiction,Paperback,309,Medium,1939,86,4.21,48503,10.789401547751567,232,5.4510384535657,18793
+A Monster Calls,Patrick Ness,Fantasy,Paperback,237,Medium,2011,14,4.35,289041,12.574327285255096,212,5.3612921657094255,18695
+Daisy Jones & The Six,Taylor Jenkins Reid,Fiction,Hardcover,368,Medium,2019,6,4.2,1833834,14.421919960466624,208,5.342334251964811,18691
+Verity,Colleen Hoover,Thriller,ebook,336,Medium,2018,7,4.29,3727537,15.131258520069402,207,5.337538079701318,18616
+"Hyperion (Hyperion Cantos, #1)",Dan Simmons,Science Fiction,Mass,500,Long,1989,36,4.27,296477,12.59972829567884,218,5.389071729816501,18481
+"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,Classics,Paperback,335,Medium,1935,90,4.21,301596,12.616846968116866,291,5.676753802268282,18462
+"Cannery Row (Cannery Row, #1)",John Steinbeck,Classics,Paperback,181,Short,1943,82,4.06,153498,11.941449331330189,270,5.602118820879701,18444
+"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery,Classics,Mass,276,Medium,1909,116,4.23,224203,12.320311630674247,287,5.662960480135946,18439
+"Better Than the Movies (Better Than the Movies, #1)",Lynn Painter,Romance,Hardcover,356,Medium,2021,4,4.26,747483,13.52446817933562,197,5.288267030694535,18278
+"They Both Die at the End (They Both Die at the End, #1)",Adam Silvera,Romance,Hardcover,389,Medium,2017,8,3.75,862620,13.667730707903022,204,5.3230099791384085,18276
+"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan,Fantasy,Hardcover,528,Long,2010,15,4.1,424527,12.958733242511162,245,5.5053315359323625,18274
+"Bared to You (Crossfire, #1)",Sylvia Day,Romance,Paperback,352,Medium,2012,13,4.13,549806,13.217322586534742,214,5.3706380281276624,18183
+I'll Give You the Sun,Jandy Nelson,Young Adult,Hardcover,371,Medium,2014,11,4.15,356835,12.785031571459232,201,5.308267697401205,18166
+Cutting for Stone,Abraham   Verghese,Fiction,Hardcover,560,Long,2009,16,4.33,425079,12.960032665486631,227,5.429345628954441,18145
+"Cry, the Beloved Country",Alan Paton,Fiction,Hardcover,316,Medium,1948,77,3.93,79392,11.282165482139732,250,5.5254529391317835,18125
+"Torment (Fallen, #2)",Lauren Kate,Young Adult,Hardcover,452,Long,2010,15,3.84,244711,12.407837287868736,234,5.459585514144159,18069
+"Cress (The Lunar Chronicles, #3)",Marissa Meyer,Fantasy,Hardcover,552,Long,2014,11,4.4,403033,12.906776204615761,219,5.393627546352361,18037
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,Nonfiction,Paperback,512,Long,2011,14,4.34,1248362,14.03734365100299,200,5.303304908059076,17998
+Normal People,Sally Rooney,Fiction,Hardcover,273,Medium,2018,7,3.81,1842997,14.426904151464177,196,5.2832037287379885,17967
+"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles,Romance,Hardcover,368,Medium,2008,17,4.04,263288,12.481007567171517,212,5.3612921657094255,17935
+"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,Classics,Paperback,224,Medium,1932,93,4.21,285085,12.560546168118055,281,5.641907070938114,17878
+"Angelfall (Penryn & the End of Days, #1)",Susan Ee,Fantasy,Kindle,288,Medium,2011,14,4.1,198482,12.19845873312449,205,5.327876168789581,17878
+Sarah's Key,Tatiana de Rosnay,Historical Fiction,Hardcover,294,Medium,2006,19,4.18,494069,13.110432486536364,236,5.4680601411351315,17876
+Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer,Nonfiction,Paperback,368,Medium,1997,28,4.26,564617,13.243904675271022,251,5.529429087511423,17848
+"Red Rising (Red Rising Saga, #1)",Pierce Brown,Science Fiction,Hardcover,382,Medium,2014,11,4.27,747900,13.525025895256015,203,5.318119993844216,17841
+"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,Fantasy,Paperback,224,Medium,1954,71,3.91,389886,12.873612232532302,271,5.605802066295998,17760
+"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray,Fantasy,Hardcover,403,Long,2003,22,3.8,225513,12.326137520254928,219,5.393627546352361,17750
+"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken,Young Adult,Hardcover,488,Long,2012,13,4.15,206364,12.237401724566897,204,5.3230099791384085,17641
+"Chocolat (Chocolat, #1)",Joanne Harris,Fiction,Paperback,306,Medium,1999,26,3.96,130991,11.78289153161623,265,5.583496308781699,17634
+"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,Fantasy,Hardcover,454,Long,2013,12,4.23,459267,13.03738919664789,222,5.407171771460119,17627
+"Sabriel (Abhorsen, #1)",Garth Nix,Fantasy,Mass,491,Long,1995,30,4.16,217993,12.292222818456683,217,5.384495062789089,17617
+"Swann’s Way (In Search of Lost Time, #1)",Marcel Proust,Classics,Paperback,468,Long,1913,112,4.16,68001,11.127292395490432,221,5.402677381872279,17459
+No Country for Old Men,Cormac McCarthy,Fiction,Paperback,309,Medium,2005,20,4.17,244718,12.407865892513723,234,5.459585514144159,17458
+The Westing Game,Ellen Raskin,Mystery,Paperback,182,Short,1978,47,3.99,233987,12.363025110973586,227,5.429345628954441,17456
+What Lies in the Woods,Kate Alice Marshall,Thriller,Hardcover,336,Medium,2023,2,3.94,198439,12.198242066414986,184,5.220355825078325,17404
+The Last Lecture,Randy Pausch,Nonfiction,Kindle,217,Medium,2008,17,4.26,362727,12.801408521078198,217,5.384495062789089,17401
+The Summoning (Darkest Powers #1),Kelley Armstrong,Young Adult,Hardcover,390,Medium,2008,17,4.03,176319,12.080055804946687,217,5.384495062789089,17370
+"Silence (Hush, Hush, #3)",Becca Fitzpatrick,Fantasy,Hardcover,440,Long,2011,14,4.07,294957,12.59458825230462,222,5.407171771460119,17263
+"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin,Young Adult,Kindle,456,Long,2011,14,4.01,190633,12.158110638344063,198,5.293304824724492,17181
+"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore,Young Adult,Hardcover,440,Long,2010,15,3.93,351581,12.770198248943425,220,5.3981627015177525,17172
+Just Listen,Sarah Dessen,Young Adult,Hardcover,371,Medium,2006,19,4.05,250400,12.430818911810329,210,5.351858133476067,17129
+"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost,Paranormal,Mass,384,Medium,2007,18,4.13,164540,12.010915058253985,205,5.327876168789581,17125
+"The Goose Girl (The Books of Bayern, #1)",Shannon Hale,Fantasy,Paperback,383,Medium,2003,22,4.14,148278,11.906850913244085,211,5.356586274672012,17014
+Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,Nonfiction,Paperback,349,Medium,2006,19,3.66,358593,12.78994610827867,232,5.4510384535657,17004
+Lady Chatterley’s Lover,D.H. Lawrence,Classics,Hardcover,376,Medium,1928,97,3.5,137302,11.82994544148094,263,5.575949103146316,16975
+I Capture the Castle,Dodie Smith,Classics,Hardcover,408,Long,1948,77,3.99,114976,11.65248738734272,217,5.384495062789089,16922
+"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,Fantasy,Hardcover,980,Very Long,2018,7,4.71,1062372,13.876015643224735,193,5.267858159063328,16909
+Nine Stories,J.D. Salinger,Short Stories,Paperback,302,Medium,1953,72,4.18,154462,11.947709864438849,224,5.41610040220442,16778
+"Ishmael (Ishmael, #1)",Daniel Quinn,Fiction,Kindle,338,Medium,1992,33,4.01,104059,11.552722934844294,202,5.313205979041787,16771
+"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,Science Fiction,Mass,382,Medium,1986,39,4.11,270362,12.50752077946875,213,5.365976015021851,16763
+"Trainspotting (Mark Renton, #2)",Irvine Welsh,Fiction,Paperback,431,Long,1993,32,4.11,178261,12.091009657188694,208,5.342334251964811,16732
+"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle,Fantasy,Paperback,294,Medium,1968,57,4.16,121945,11.71133360277812,212,5.3612921657094255,16695
+The Truth About Forever,Sarah Dessen,Young Adult,Paperback,374,Medium,2004,21,4.12,226156,12.328984727334321,204,5.3230099791384085,16621
+"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris,Fantasy,Mass,291,Medium,2004,21,4.12,266861,12.494486949834767,223,5.4116460518550396,16504
+The Glass Castle,Jeannette Walls,Nonfiction,Paperback,288,Medium,2005,20,4.33,1353813,14.118436352264808,203,5.318119993844216,16440
+"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons,Historical Fiction,Paperback,637,Long,2000,25,4.29,94172,11.452888795276065,180,5.198497031265826,16380
+"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,Fantasy,Paperback,183,Short,1968,57,4.01,358740,12.790355958633267,216,5.37989735354046,16366
+Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,Classics,Paperback,193,Short,1919,106,4.14,134533,11.80957223418259,201,5.308267697401205,16357
+The Hours,Michael Cunningham,Fiction,Paperback,230,Medium,1998,27,3.96,148432,11.907888956962092,233,5.455321115357702,16344
+"Drums of Autumn (Outlander, #4)",Diana Gabaldon,Historical Fiction,Paperback,928,Very Long,1996,29,4.36,268252,12.4996858440278,208,5.342334251964811,16318
+Cyrano de Bergerac,Edmond Rostand,Classics,Mass,240,Medium,1897,128,4.06,90637,11.414628830145118,233,5.455321115357702,16213
+"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon,Paranormal Romance,Hardcover,723,Long,2008,17,4.56,61585,11.028189850963978,187,5.236441962829949,16189
+"Slammed (Slammed, #1)",Colleen Hoover,Romance,Kindle,354,Medium,2012,13,4.14,445298,13.0065012456302,183,5.214935757608986,16127
+"World Without End (Kingsbridge, #2)",Ken Follett,Historical Fiction,Hardcover,1237,Very Long,2007,18,4.32,274602,12.523081697238123,216,5.37989735354046,16045
+The Glass Menagerie,Tennessee Williams,Plays,Paperback,104,Short,1945,80,3.74,142881,11.869774393772717,265,5.583496308781699,16032
+Project Hail Mary,Andy Weir,Science Fiction,Hardcover,476,Long,2021,4,4.5,1064777,13.87827688469257,178,5.187385805840755,16017
+"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han,Romance,Paperback,384,Medium,2014,11,4.04,1048857,13.863212511199286,189,5.247024072160486,15962
+"Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2)",Holly  Jackson,Mystery,Paperback,413,Long,2020,5,4.26,767861,13.551365308484076,175,5.170483995038151,15848
+"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness,Young Adult,Paperback,528,Long,2008,17,3.98,203836,12.225075933832201,180,5.198497031265826,15782
+Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak,Fiction,Kindle,557,Long,2022,3,4.29,15798,9.66770192587285,165,5.111987788356544,15728
+"Carry On (Simon Snow, #1)",Rainbow Rowell,Fantasy,Paperback,528,Long,2015,10,4.16,333043,12.716029892366032,181,5.204006687076795,15720
+"1Q84 (1Q84, #1-3)",Haruki Murakami,Fiction,Hardcover,944,Very Long,2009,16,3.95,338586,12.732536354559603,186,5.231108616854587,15689
+We Need to Talk About Kevin,Lionel Shriver,Fiction,Paperback,400,Medium,2003,22,4.08,211759,12.263208836900983,194,5.272999558563747,15601
+"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis,Fantasy,Paperback,243,Medium,1953,72,3.95,328974,12.70373703901834,244,5.501258210544727,15551
+"Hunted (House of Night, #5)",P.C. Cast,Young Adult,Hardcover,336,Medium,2009,16,3.93,190795,12.158960073415981,211,5.356586274672012,15525
+"The Scorch Trials (The Maze Runner, #2)",James Dashner,Young Adult,Hardcover,362,Medium,2010,15,3.89,639018,13.367689466876937,203,5.318119993844216,15523
+"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron,Fiction,Hardcover,319,Medium,2010,15,4.36,139659,11.846966176400027,181,5.204006687076795,15468
+Educated,Tara Westover,Nonfiction,Hardcover,352,Medium,2018,7,4.47,1840624,14.425615745822089,176,5.176149732573829,15393
+"As Good As Dead (A Good Girl's Guide to Murder, #3)",Holly  Jackson,Mystery,Hardcover,459,Long,2021,4,4.19,559701,13.235159778215928,167,5.123963979403259,15387
+"Captive in the Dark (The Dark Duet, #1)",C.J. Roberts,Dark,Nook,276,Medium,2011,14,3.93,74971,11.224869989478876,166,5.117993812416755,15326
+Interpreter of Maladies,Jhumpa Lahiri,Short Stories,Hardcover,198,Short,1999,26,4.18,205803,12.23467953853917,204,5.3230099791384085,15257
+Before I Fall,Lauren Oliver,Young Adult,Paperback,470,Long,2010,15,3.88,345787,12.753581149489229,183,5.214935757608986,15227
+"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,Fantasy,Paperback,419,Long,2015,10,4.16,4123886,15.232306723161626,174,5.1647859739235145,15224
+"The Secret (The Secret, #1)",Rhonda Byrne,Self Help,Hardcover,199,Short,2006,19,3.74,530256,13.181117073659925,199,5.298317366548036,15159
+"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,Fantasy,Hardcover,240,Medium,1951,74,3.98,482085,13.08587780035372,259,5.560681631015528,15147
+"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini,Fantasy,Hardcover,849,Very Long,2011,14,4.17,309389,12.642357895978224,195,5.278114659230518,15142
+"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr,Fantasy,Hardcover,328,Medium,2007,18,3.7,166253,12.021272018379035,194,5.272999558563747,15137
+"Inferno (Robert Langdon, #4)",Dan    Brown,Fiction,Hardcover,463,Long,2013,12,3.9,591295,13.290072017030417,192,5.262690188904886,15121
+"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern,Romance,Paperback,501,Long,2004,21,4.03,396639,12.890784347269017,196,5.2832037287379885,15087
+"The House in the Cerulean Sea (Cerulean Chronicles, #1)",T.J. Klune,Fantasy,Kindle,394,Medium,2020,5,4.36,947583,13.761670866362715,169,5.135798437050262,15039
+A Brief History of Time,Stephen W. Hawking,Science,Paperback,226,Medium,1988,37,4.21,476800,13.074854492046514,217,5.384495062789089,15023
+"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,Fiction,Paperback,232,Medium,1988,37,4.01,173837,12.065879110032101,219,5.393627546352361,15022
+"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan,Fantasy,Hardcover,516,Long,2014,11,4.43,388144,12.869134260132926,195,5.278114659230518,15009
+The Bluest Eye,Toni Morrison,Fiction,Paperback,216,Medium,1970,55,4.13,298571,12.606766388759446,193,5.267858159063328,14980
+"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice,Horror,Paperback,448,Long,1988,37,3.93,161463,11.992037486579955,215,5.375278407684165,14892
+"Viciously Yours (Fae Kings of Eden, #1)",Jamie Applegate Hunter,Fantasy,Kindle,258,Medium,2024,1,3.6,43664,10.684302144847834,157,5.062595033026967,14839
+"The Eyre Affair (Thursday Next, #1)",Jasper Fforde,Fantasy,Paperback,374,Medium,2001,24,3.88,137045,11.82807191487669,189,5.247024072160486,14799
+Gravity’s Rainbow,Thomas Pynchon,Fiction,Paperback,776,Long,1973,52,4.01,47977,10.778497851489867,172,5.153291594497779,14779
+House of Leaves,Mark Z. Danielewski,Horror,Paperback,709,Long,2000,25,4.09,198776,12.199938872346534,168,5.1298987149230735,14775
+All the King's Men,Robert Penn Warren,Fiction,Paperback,439,Long,1946,79,4.09,66509,11.105107591278466,203,5.318119993844216,14732
+No One Can Know,Kate Alice Marshall,Thriller,Hardcover,325,Medium,2024,1,3.65,80302,11.293562259137364,156,5.056245805348308,14731
+"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas,Fantasy,Hardcover,803,Very Long,2020,5,4.45,1107739,13.917832461713385,166,5.117993812416755,14649
+"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb,Fantasy,Mass,435,Long,1995,30,4.19,396000,12.889172015485954,177,5.181783550292085,14635
+One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,Fiction,Paperback,182,Short,1962,63,3.98,124655,11.73331322257064,213,5.365976015021851,14609
+Invisible Monsters,Chuck Palahniuk,Fiction,Paperback,304,Medium,1999,26,4.0,151068,11.925491965067923,178,5.187385805840755,14553
+"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,Romance,Mass,441,Long,2006,19,4.32,202080,12.216423886107307,184,5.220355825078325,14461
+Twenty Thousand Leagues Under the Sea,Jules Verne,Classics,Hardcover,269,Medium,1869,156,3.89,275489,12.526306609275677,213,5.365976015021851,14420
+Taming Flame,Therisa Peimer,Fiction,Paperback,312,Medium,2022,3,4.28,16714,9.7240617988542,151,5.0238805208462765,14410
+Foucault’s Pendulum,Umberto Eco,Fiction,Paperback,623,Long,1988,37,3.91,74703,11.221288917210718,190,5.25227342804663,14403
+Gray After Dark,Noelle W. Ihli,Thriller,Kindle,370,Medium,2024,1,4.18,102262,11.535303205187827,151,5.0238805208462765,14361
+"Poison Study (Study, #1)",Maria V. Snyder,Fantasy,Paperback,427,Long,2005,20,4.09,175634,12.076163256950935,173,5.159055299214529,14332
+"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,Fiction,Paperback,566,Long,1980,45,4.05,441017,12.99684096992255,211,5.356586274672012,14318
+The Ocean at the End of the Lane,Neil Gaiman,Fantasy,Hardcover,181,Short,2013,12,4.01,656243,13.394287949989032,170,5.14166355650266,14285
+Seabiscuit: An American Legend,Laura Hillenbrand,Nonfiction,Mass,457,Long,1999,26,4.23,168194,12.03287929956309,208,5.342334251964811,14233
+The Club,Ellery Lloyd,Mystery,Hardcover,320,Medium,2022,3,3.28,125494,11.740021196122866,151,5.0238805208462765,14231
+If We Were Villains,M.L. Rio,Dark Academia,Hardcover,354,Medium,2017,8,4.09,405552,12.913006846832738,157,5.062595033026967,14222
+"Guards! Guards! (Discworld, #8; City Watch, #1)",Terry Pratchett,Fantasy,Mass,376,Medium,1989,36,4.34,234638,12.365803441794313,172,5.153291594497779,14202
+Because of Winn-Dixie,Kate DiCamillo,Fiction,Paperback,182,Short,2000,25,4.1,278082,12.535674909263342,192,5.262690188904886,14143
+"Think Twice (Myron Bolitar, #12)",Harlan Coben,Mystery,Hardcover,368,Medium,2024,1,4.23,48470,10.788720959944941,149,5.0106352940962555,14133
+The Midnight Library,Matt Haig,Fiction,Hardcover,288,Medium,2020,5,3.98,2418208,14.698537741491887,164,5.10594547390058,14093
+The Memory Keeper's Daughter,Kim Edwards,Fiction,Paperback,401,Long,2005,20,3.7,611321,13.323379104245399,197,5.288267030694535,14089
+A People’s History of the United States: 1492 - Present,Howard Zinn,History,Paperback,729,Long,1980,45,4.09,264967,12.48736434295994,191,5.2574953720277815,14056
+"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,Fantasy,Hardcover,453,Long,2008,17,4.1,991534,13.807009526369384,201,5.308267697401205,14029
+Mythology,Edith Hamilton,Mythology,Paperback,497,Long,1942,83,4.03,59788,10.998576976530199,211,5.356586274672012,14025
+Ask for Andrea,Noelle W. Ihli,Thriller,ebook,272,Medium,2022,3,4.08,199996,12.206057645417673,148,5.003946305945459,13985
+Peace Like a River,Leif Enger,Fiction,Paperback,312,Medium,2001,24,4.03,101150,11.524369728854486,170,5.14166355650266,13974
+"Where She Went (If I Stay, #2)",Gayle Forman,Young Adult,Hardcover,264,Medium,2011,14,3.97,304979,12.628001479669003,175,5.170483995038151,13792
+"The Talisman (The Talisman, #1)",Stephen  King,Horror,Hardcover,656,Long,1984,41,4.11,140893,11.855763113587596,189,5.247024072160486,13743
+Head Like a Hole,Andrew Van Wey,Horror,Kindle,382,Medium,2022,3,3.84,5863,8.676587243566487,146,4.990432586778736,13738
+The Roommate,Kiersten Modglin,Thriller,Kindle,275,Medium,2021,4,3.77,13367,9.50061907027523,145,4.983606621708336,13737
+The History of Love,Nicole Krauss,Fiction,Paperback,255,Medium,2005,20,3.92,140567,11.853446636437727,166,5.117993812416755,13735
+"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus,Mystery,Hardcover,416,Long,2017,8,3.91,1050944,13.865200317376543,155,5.049856007249537,13714
+"The Hero of Ages (Mistborn, #3)",Brandon Sanderson,Fantasy,Hardcover,572,Long,2008,17,4.56,582848,13.275683426639207,158,5.0689042022202315,13690
+"The Fiery Cross (Outlander, #5)",Diana Gabaldon,Historical Fiction,Mass,1443,Very Long,2001,24,4.26,226137,12.328900711371238,179,5.19295685089021,13683
+Grimm's Fairy Tales,Jacob Grimm,Classics,Kindle,688,Long,1812,213,4.23,220898,12.305460862462697,228,5.43372200355424,13674
+Native Son,Richard Wright,Fiction,Paperback,504,Long,1940,85,4.04,104430,11.556281845220143,197,5.288267030694535,13649
+"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli,Young Adult,Hardcover,320,Medium,2015,10,4.13,466044,13.052037474969142,156,5.056245805348308,13640
+The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,Classics,Paperback,129,Short,1892,133,4.07,354424,12.778252036985831,197,5.288267030694535,13573
+"Oryx and Crake (MaddAddam, #1)",Margaret Atwood,Fiction,Paperback,389,Medium,2003,22,4.0,286386,12.56509932197697,176,5.176149732573829,13564
+"The Murder of Roger Ackroyd (Hercule Poirot, #4)",Agatha Christie,Mystery,Hardcover,288,Medium,1926,99,4.26,342390,12.743708637857537,188,5.241747015059643,13546
+"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon,Historical Fiction,Paperback,1008,Very Long,2005,20,4.44,191032,12.160201466974017,175,5.170483995038151,13538
+"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,Historical Fiction,Mass,345,Medium,1974,51,4.33,91606,11.425262966956396,176,5.176149732573829,13528
+"Champion (Legend, #3)",Marie Lu,Dystopia,Hardcover,369,Medium,2013,12,4.31,232768,12.35780182446061,163,5.099866427824199,13512
+Look Closer,David Ellis,Thriller,Hardcover,448,Long,2022,3,4.15,150103,11.91908366616721,143,4.969813299576001,13496
+"Gone (Gone, #1)",Michael  Grant,Young Adult,Hardcover,560,Long,2008,17,3.87,210059,12.255148483176766,162,5.093750200806762,13488
+Archer's Voice,Mia Sheridan,Romance,ebook,377,Medium,2014,11,4.17,666069,13.409150049104477,153,5.0369526024136295,13460
+"Not Forever, But For Now",Chuck Palahniuk,Fiction,Hardcover,256,Medium,2023,2,3.03,4960,8.509362612301048,142,4.962844630259907,13448
+I Am Legend and Other Stories,Richard Matheson,Horror,Paperback,317,Medium,1954,71,4.0,136175,11.821703445716743,186,5.231108616854587,13407
+Watchers,Dean Koontz,Horror,Paperback,624,Long,1987,38,4.19,171625,12.053072969710254,170,5.14166355650266,13384
+Starship Troopers,Robert A. Heinlein,Science Fiction,Mass,264,Medium,1959,66,4.01,245542,12.41122736362875,168,5.1298987149230735,13362
+The Girl Who Was Taken,Charlie Donlea,Thriller,Kindle,449,Long,2017,8,4.16,172726,12.059467592389684,141,4.955827057601261,13337
+"Shadowfever (Fever, #5)",Karen Marie Moning,Fantasy,Hardcover,608,Long,2011,14,4.39,112695,11.632449206940143,155,5.049856007249537,13336
+If on a Winter’s Night a Traveler,Italo Calvino,Fiction,Paperback,260,Medium,1979,46,4.02,111245,11.619499244325908,165,5.111987788356544,13326
+"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett,Fantasy,Paperback,480,Long,2002,23,4.5,118381,11.681671962847735,166,5.117993812416755,13325
+"One for the Money (Stephanie Plum, #1)",Janet Evanovich,Mystery,Paperback,320,Medium,1994,31,4.05,577771,13.266934606165435,180,5.198497031265826,13323
+"Left Behind (Left Behind, #1)",Tim LaHaye,Fiction,Mass,470,Long,1995,30,3.86,246324,12.414407081190676,182,5.209486152841421,13321
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,Fiction,Paperback,159,Short,1967,58,4.16,218763,12.295748802171948,186,5.231108616854587,13271
+"Darkfever (Fever, #1)",Karen Marie Moning,Fantasy,Hardcover,309,Medium,2006,19,4.05,189748,12.153457425151762,170,5.14166355650266,13202
+"Scythe (Arc of a Scythe, #1)",Neal Shusterman,Fantasy,Hardcover,435,Long,2016,9,4.32,408784,12.92094462443914,145,4.983606621708336,13192
+The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,Christian,Paperback,336,Medium,2002,23,3.98,291439,12.582589431682445,156,5.056245805348308,13190
+"Once Upon a Broken Heart (Once Upon a Broken Heart, #1)",Stephanie Garber,Fantasy,Hardcover,408,Long,2021,4,4.06,643795,13.375137184717882,148,5.003946305945459,13188
+"Death on the Nile (Hercule Poirot, #18)",Agatha Christie,Mystery,Paperback,352,Medium,1937,88,4.12,303959,12.624651392783722,206,5.332718793265369,13064
+"Corrupt (Devil's Night, #1)",Penelope Douglas,Dark Romance,Paperback,516,Long,2015,10,3.78,421667,12.951973553525985,139,4.941642422609304,13018
+Cosmos,Carl Sagan,Science,Mass,384,Medium,1980,45,4.4,158314,11.972341998170865,174,5.1647859739235145,12987
+The Magus,John Fowles,Fiction,Paperback,656,Long,1965,60,4.05,63632,11.060887482687326,167,5.123963979403259,12984
+The Blind Assassin,Margaret Atwood,Fiction,Paperback,637,Long,2000,25,3.96,163145,12.002400784405559,180,5.198497031265826,12973
+"The Ballad of Never After (Once Upon a Broken Heart, #2)",Stephanie Garber,Fantasy,Hardcover,416,Long,2022,3,4.49,466965,13.054011728861425,140,4.948759890378168,12965
+The Shards,Bret Easton Ellis,Fiction,Hardcover,608,Long,2023,2,4.0,42728,10.662633125602696,136,4.919980925828125,12941
+"Being a Witch, and Other Things I Didn't Ask For",Sara Pascoe,Adventure,Paperback,380,Medium,2015,10,4.28,26909,10.200253243720951,136,4.919980925828125,12899
+John Adams,David McCullough,History,Paperback,751,Long,2001,24,4.08,376918,12.83978558923429,180,5.198497031265826,12891
+The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr.,Religion,Paperback,531,Long,1830,195,4.23,90757,11.41595190251171,141,4.955827057601261,12870
+Rosencrantz and Guildenstern Are Dead,Tom Stoppard,Plays,Paperback,126,Short,1967,58,4.04,92873,11.438999014801933,180,5.198497031265826,12868
+Possession,A.S. Byatt,Fiction,Paperback,555,Long,1990,35,3.9,84219,11.341187701715919,178,5.187385805840755,12845
+"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce,Fantasy,Mass,274,Medium,1983,42,4.27,136564,11.824555970740638,160,5.081404364984463,12814
+"The Death Cure (The Maze Runner, #3)",James Dashner,Young Adult,Hardcover,325,Medium,2011,14,3.78,497470,13.117292542424485,167,5.123963979403259,12796
+Under the Dome,Stephen  King,Horror,Hardcover,1074,Very Long,2009,16,3.93,322842,12.68492141592394,177,5.181783550292085,12769
+"Pretties (Uglies, #2)",Scott Westerfeld,Young Adult,Paperback,370,Medium,2005,20,3.83,279443,12.540557193721236,173,5.159055299214529,12716
+Papillon,Henri Charrière,Nonfiction,Paperback,544,Long,1969,56,4.23,75439,11.23109291730734,177,5.181783550292085,12687
+"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,Young Adult,Hardcover,294,Medium,2001,24,3.85,732465,13.504172202413834,180,5.198497031265826,12676
+The Agony and the Ecstasy,Irving Stone,Historical Fiction,Mass,776,Long,1961,64,4.09,96492,11.477225745835904,168,5.1298987149230735,12652
+House of Sand and Fog,Andre Dubus III,Fiction,Paperback,384,Medium,1999,26,3.86,136192,11.821828276369438,180,5.198497031265826,12633
+"Odd Thomas (Odd Thomas, #1)",Dean Koontz,Horror,Paperback,446,Long,2003,22,3.99,276011,12.528199622015004,172,5.153291594497779,12618
+"Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",Shannon Messenger,Fantasy,Hardcover,496,Long,2012,13,4.39,108458,11.594127500363612,139,4.941642422609304,12601
+Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,History,Paperback,509,Long,1970,55,4.26,101839,11.531158233231288,198,5.293304824724492,12592
+Veronika Decides to Die,Paulo Coelho,Fiction,Paperback,285,Medium,1998,27,3.74,241464,12.394479814035522,156,5.056245805348308,12523
+The Sirens of Titan,Kurt Vonnegut Jr.,Fiction,Paperback,224,Medium,1959,66,4.15,157195,11.965248713360886,155,5.049856007249537,12518
+"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward,Romance,Mass,502,Long,2007,18,4.31,140983,11.856401687744205,164,5.10594547390058,12464
+Babel,R.F. Kuang,Fantasy,Hardcover,544,Long,2022,3,4.15,458812,13.036397998622329,132,4.890349128221754,12460
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,Nonfiction,Hardcover,268,Medium,2005,20,4.01,894839,13.70440021032584,165,5.111987788356544,12451
+Stoner,John  Williams,Fiction,Paperback,292,Medium,1965,60,4.35,243155,12.40145849165333,138,4.9344739331306915,12442
+On Writing: A Memoir of the Craft,Stephen  King,Nonfiction,Mass,320,Medium,2000,25,4.34,316609,12.665426011527202,167,5.123963979403259,12436
+The Elegance of the Hedgehog,Muriel Barbery,Fiction,Paperback,325,Medium,2006,19,3.8,199256,12.202350727779397,157,5.062595033026967,12353
+How to Win Friends & Influence People,Dale Carnegie,Self Help,Paperback,288,Medium,1936,89,4.22,1140611,13.94707551842777,172,5.153291594497779,12322
+"Consequences (Consequences, #1)",Aleatha Romig,Dark,Hardcover,366,Medium,2011,14,3.92,43277,10.675399701731727,132,4.890349128221754,12289
+"Truth (Consequences, #2)",Aleatha Romig,Dark,Paperback,480,Long,2012,13,4.34,32551,10.390594089681526,130,4.875197323201151,12249
+A Heartbreaking Work of Staggering Genius,Dave Eggers,Fiction,Paperback,530,Long,2000,25,3.69,183484,12.11988819926634,157,5.062595033026967,12232
+Corelli’s Mandolin,Louis de Bernières,Fiction,Paperback,437,Long,1994,31,4.03,92602,11.436076817517693,163,5.099866427824199,12140
+"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,Science Fiction,Paperback,334,Medium,1959,66,3.99,118919,11.686206277112033,162,5.093750200806762,12129
+Song of Solomon,Toni Morrison,Fiction,Paperback,338,Medium,1977,48,4.16,126872,11.750941865107144,170,5.14166355650266,12088
+"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas,Fantasy,Paperback,699,Long,2017,8,4.46,2650376,14.790212451994764,139,4.941642422609304,12078
+Holy Bible: New International Version,Anonymous,Religion,Hardcover,1213,Very Long,1985,40,4.63,96345,11.475701157671958,152,5.030437921392435,12076
+"Prodigy (Legend, #2)",Marie Lu,Dystopia,Hardcover,371,Medium,2013,12,4.22,280679,12.544970509366225,150,5.017279836814924,12065
+The Witch of Blackbird Pond,Elizabeth George Speare,Historical Fiction,Paperback,256,Medium,1958,67,4.03,160002,11.982947844040185,171,5.147494476813453,11983
+"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr,Historical Fiction,Paperback,498,Long,1994,31,4.06,181130,12.106975805368316,170,5.14166355650266,11982
+"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,Young Adult,Hardcover,284,Medium,2006,19,3.84,193348,12.172252125054134,150,5.017279836814924,11939
+The Drowning Woman,Robyn Harding,Thriller,Hardcover,336,Medium,2023,2,4.03,158069,11.970793251871441,126,4.844187086458591,11929
+Prodigal Summer,Barbara Kingsolver,Fiction,Paperback,444,Long,2000,25,4.05,127468,11.75562847676306,165,5.111987788356544,11926
+Something Wicked This Way Comes,Ray Bradbury,Horror,Mass,293,Medium,1962,63,3.89,153124,11.939009860281129,173,5.159055299214529,11925
+Around the World in Eighty Days,Jules Verne,Classics,Paperback,252,Medium,1872,153,3.95,281105,12.546487101384011,190,5.25227342804663,11915
+"Storm Front (The Dresden Files, #1)",Jim  Butcher,Fantasy,Paperback,372,Medium,2000,25,3.97,376887,12.839703340064364,146,4.990432586778736,11915
+"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella,Chick Lit,Mass,368,Medium,2000,25,3.71,804115,13.597498816360911,158,5.0689042022202315,11910
+Battle Royale,Koushun Takami,Horror,Paperback,624,Long,1999,26,4.26,85156,11.35225189058042,140,4.948759890378168,11875
+"Killing Sarai (In the Company of Killers, #1)",J.A. Redmerski,Romance,Kindle,268,Medium,2013,12,4.08,32741,10.396413936414287,127,4.852030263919617,11871
+This Is How You Lose the Time War,Amal El-Mohtar,Science Fiction,ebook,209,Medium,2019,6,3.84,329679,12.7058777660127,128,4.859812404361672,11825
+The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,History,Hardcover,352,Medium,2014,11,3.81,4069,8.311398278436641,122,4.812184355372417,11813
+"Love Story (Love Story, #1)",Erich Segal,Romance,Paperback,224,Medium,1969,56,3.65,64143,11.068885834882288,184,5.220355825078325,11757
+"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,Mystery,Paperback,235,Medium,1998,27,3.81,275367,12.525863663899575,181,5.204006687076795,11756
+Ficciones,Jorge Luis Borges,Fiction,Paperback,174,Short,1944,81,4.4,78552,11.271528835188708,141,4.955827057601261,11744
+Jitterbug Perfume,Tom Robbins,Fiction,Paperback,342,Medium,1984,41,4.23,80653,11.297923679347642,148,5.003946305945459,11715
+"Tempted (House of Night, #6)",P.C. Cast,Young Adult,Paperback,319,Medium,2009,16,3.95,173862,12.06602291174704,166,5.117993812416755,11708
+"It Ain't Me, Babe (Hades Hangmen, #1)",Tillie Cole,Romance,Kindle,466,Long,2014,11,4.04,55907,10.931462761604797,125,4.836281906951478,11666
+Digital Fortress,Dan    Brown,Fiction,Paperback,510,Long,1998,27,3.71,663599,13.405434837298426,153,5.0369526024136295,11661
+Murder on Family Grounds (Mary Wandwalker #3),Susan  Rowland,Mystery,Paperback,334,Medium,2024,1,4.29,16717,9.7242412622591,123,4.820281565605037,11639
+"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett,Fantasy,Paperback,228,Medium,1983,42,3.99,420584,12.949401878276696,162,5.093750200806762,11638
+Anthem,Ayn Rand,Fiction,Paperback,105,Short,1938,87,3.61,166529,12.022930752352316,153,5.0369526024136295,11622
+"Tears of Tess (Monsters in the Dark, #1)",Pepper Winters,Dark,Paperback,376,Medium,2013,12,3.98,43129,10.671974089641889,124,4.8283137373023015,11618
+"The High Auction (Wisdom Revolution, #1)",Misba,Fantasy,Hardcover,180,Short,2021,4,4.69,16569,9.71534911042061,119,4.787491742782046,11609
+"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir,Fantasy,Paperback,446,Long,2015,10,4.24,345102,12.751598202180736,132,4.890349128221754,11592
+Ivanhoe,Walter  Scott,Classics,Paperback,496,Long,1819,206,3.76,98903,11.501904961686764,177,5.181783550292085,11587
+"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier,Fantasy,Hardcover,345,Medium,2009,16,4.14,170733,12.047862068796546,135,4.912654885736052,11579
+"The Oldest Dance (Wisdom Revolution, #2)",Misba,Fantasy,Hardcover,252,Medium,2021,4,4.7,13543,9.51369892381297,119,4.787491742782046,11562
+"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas,Fantasy,ebook,448,Long,2014,11,4.2,1143007,13.949173941877563,141,4.955827057601261,11558
+"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card,Science Fiction,Paperback,469,Long,1999,26,4.32,179537,12.09814216366971,147,4.997212273764115,11495
+The Story of My Life,Helen Keller,Nonfiction,Mass,240,Medium,1902,123,4.07,150865,11.924147304590754,193,5.267858159063328,11467
+"Princess Academy (Princess Academy, #1)",Shannon Hale,Fantasy,Paperback,314,Medium,2005,20,4.04,121817,11.710283406590296,157,5.062595033026967,11449
+"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,Mystery,Paperback,231,Medium,1939,86,3.94,167841,12.030778339669709,157,5.062595033026967,11447
+The Magic Mountain,Thomas Mann,Fiction,Kindle,706,Long,1924,101,4.13,61086,11.020054356564353,147,4.997212273764115,11408
+The Power of Myth,Joseph Campbell,Nonfiction,Paperback,293,Medium,1988,37,4.26,53644,10.890143547070847,161,5.087596335232384,11370
+Mistress Suffragette,Diana   Forbes,Historical Fiction,Kindle,320,Medium,2017,8,4.29,4561,8.425516402844334,127,4.852030263919617,11360
+"Magical Midlife Awakening (Leveling Up, #10)",K.F. Breene,Fantasy,Kindle,364,Medium,2024,1,4.63,11578,9.356948391612272,119,4.787491742782046,11350
+"A Darker Shade of Magic (Shades of Magic, #1)",V.E. Schwab,Fantasy,Hardcover,400,Medium,2015,10,4.03,428371,12.967747255942584,130,4.875197323201151,11340
+Message in a Bottle,Nicholas Sparks,Romance,Paperback,342,Medium,1998,27,3.98,247500,12.419169901386761,164,5.10594547390058,11288
+One Day,David Nicholls,Romance,Paperback,435,Long,2009,16,3.87,407807,12.918551754389611,138,4.9344739331306915,11263
+Orlando,Virginia Woolf,Classics,Paperback,336,Medium,1928,97,3.87,114200,11.645715332733134,153,5.0369526024136295,11230
+The Invention of Hugo Cabret,Brian Selznick,Historical Fiction,Hardcover,534,Long,2007,18,4.22,189326,12.151230957771466,148,5.003946305945459,11206
+"Fablehaven (Fablehaven, #1)",Brandon Mull,Fantasy,Hardcover,351,Medium,2006,19,4.14,177281,12.085496964065866,140,4.948759890378168,11193
+"The Poppy War (The Poppy War, #1)",R.F. Kuang,Fantasy,Kindle,545,Long,2018,7,4.16,470781,13.062150420842125,120,4.795790545596741,11167
+"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris,Fantasy,Mass,274,Medium,2003,22,4.02,244621,12.407469440954298,162,5.093750200806762,11166
+Walk Two Moons,Sharon Creech,Young Adult,Paperback,280,Medium,1994,31,4.0,173330,12.062958340260431,144,4.976733742420574,11163
+It's Kind of a Funny Story,Ned Vizzini,Young Adult,Paperback,444,Long,2006,19,4.07,261777,12.475252095313468,129,4.867534450455582,11129
+"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris,Fantasy,Mass,291,Medium,2002,23,3.96,262536,12.478147303461915,156,5.056245805348308,11093
+"Souls Unfractured (Hades Hangmen, #3)",Tillie Cole,Dark,ebook,371,Medium,2015,10,4.41,28144,10.245124997898127,118,4.77912349311153,11068
+The Shell Seekers,Rosamunde Pilcher,Fiction,Hardcover,544,Long,1987,38,4.2,120356,11.698217605209017,169,5.135798437050262,11056
+The Namesake,Jhumpa Lahiri,Fiction,Paperback,304,Medium,2003,22,4.02,283144,12.553714412901137,154,5.043425116919247,11040
+The Communist Manifesto,Karl Marx,Philosophy,Paperback,288,Medium,1848,177,3.68,196310,12.18745541537311,139,4.941642422609304,11034
+A Winter Grave,Peter  May,Crime,ebook,368,Medium,2023,2,4.05,9457,9.15461622320382,116,4.762173934797756,10959
+The Polymorph,Max Nowaz,Science Fiction,Kindle,424,Long,2023,2,4.27,14652,9.592400371638025,117,4.770684624465665,10954
+The Corrections,Jonathan Franzen,Fiction,Paperback,653,Long,2001,24,3.85,197570,12.193853292391832,149,5.0106352940962555,10949
+"Glass Houses (The Morganville Vampires, #1)",Rachel Caine,Vampires,Mass,239,Medium,2006,19,3.92,103439,11.546747013445739,143,4.969813299576001,10944
+Hard-Boiled Wonderland and the End of the World,Haruki Murakami,Fiction,Paperback,400,Medium,1985,40,4.11,151830,11.930523339168184,134,4.90527477843843,10930
+Angle of Repose,Wallace Stegner,Fiction,Paperback,569,Long,1971,54,4.24,61963,11.034308850226253,141,4.955827057601261,10924
+The Jungle Books,Rudyard Kipling,Classics,Mass,368,Medium,1895,130,4.01,89022,11.396650042294073,186,5.231108616854587,10898
+"Into the Wild (Warriors, #1)",Erin Hunter,Fantasy,Paperback,288,Medium,2003,22,4.32,120070,11.695838513465139,130,4.875197323201151,10888
+Still Alice,Lisa Genova,Fiction,Paperback,292,Medium,2007,18,4.32,359648,12.792883834810613,138,4.9344739331306915,10840
+"The Girl in the Eagle's Talons (Millennium, #7)",Karin Smirnoff,Thriller,Hardcover,368,Medium,2022,3,3.42,19506,9.878528654494932,115,4.7535901911063645,10828
+"The Well of Ascension (Mistborn, #2)",Brandon Sanderson,Fantasy,Hardcover,590,Long,2007,18,4.38,645151,13.377241226929439,128,4.859812404361672,10816
+"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward,Romance,Mass,482,Long,2007,18,4.28,144169,11.87874843780595,145,4.983606621708336,10814
+Cryptonomicon,Neal Stephenson,Fiction,Mass,1152,Very Long,1999,26,4.23,116755,11.667841566073582,130,4.875197323201151,10810
+The Marriage Portrait,Maggie O'Farrell,Historical Fiction,Hardcover,355,Medium,2022,3,4.0,197928,12.195663659510803,114,4.74493212836325,10807
+An Abundance of Katherines,John Green,Young Adult,Hardcover,229,Medium,2006,19,3.51,549052,13.215950254994176,133,4.897839799950911,10796
+"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski,Romance,Paperback,426,Long,2012,13,4.22,150033,11.918617214060053,126,4.844187086458591,10786
+I Am the Messenger,Markus Zusak,Young Adult,Paperback,357,Medium,2002,23,4.03,169370,12.039846854101071,128,4.859812404361672,10770
+Between Shades of Gray,Ruta Sepetys,Historical Fiction,Hardcover,344,Medium,2011,14,4.37,274989,12.52449001235117,129,4.867534450455582,10727
+Jude the Obscure,Thomas Hardy,Classics,Paperback,310,Medium,1895,130,3.83,75800,11.235866764155578,160,5.081404364984463,10703
+Geek Love,Katherine Dunn,Fiction,Paperback,348,Medium,1989,36,3.95,72679,11.193821522510108,135,4.912654885736052,10689
+"Mary Poppins (Mary Poppins, #1)",P.L. Travers,Classics,Hardcover,209,Medium,1934,91,4.01,140547,11.853304346421979,195,5.278114659230518,10681
+"The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,Science Fiction,Paperback,250,Medium,1980,45,4.2,314931,12.660112021487963,153,5.0369526024136295,10663
+"Small Gods (Discworld, #13)",Terry Pratchett,Fantasy,Paperback,389,Medium,1992,33,4.32,132992,11.798051774239854,136,4.919980925828125,10618
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,Self Help,Paperback,372,Medium,1989,36,4.16,816939,13.613320931732849,153,5.0369526024136295,10610
+"The Passage (The Passage, #1)",Justin Cronin,Horror,Hardcover,773,Long,2010,15,4.05,222596,12.313118240643815,132,4.890349128221754,10564
+"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton,Dark Romance,Kindle,583,Long,2021,4,3.94,865461,13.67101874737746,113,4.736198448394496,10551
+"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward,Romance,Hardcover,527,Long,2009,16,4.36,120252,11.697353135681759,141,4.955827057601261,10547
+"Winter (The Lunar Chronicles, #4)",Marissa Meyer,Fantasy,Hardcover,827,Very Long,2015,10,4.41,309807,12.643708029743179,127,4.852030263919617,10522
+"Mort (Discworld, #4; Death, #1)",Terry Pratchett,Fantasy,Mass,243,Medium,1987,38,4.24,270942,12.509663745635619,140,4.948759890378168,10501
+The Moon Is a Harsh Mistress,Robert A. Heinlein,Science Fiction,Paperback,288,Medium,1966,59,4.15,138572,11.839152541566138,135,4.912654885736052,10499
+Keep It in the Family,John Marrs,Thriller,Kindle,380,Medium,2022,3,4.07,229935,12.345556288314029,111,4.718498871295094,10491
+Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher,Africa,Hardcover,1000,Very Long,2010,15,4.13,1954,7.578145472419466,106,4.672828834461906,10387
+My Name Is Asher Lev,Chaim Potok,Fiction,Paperback,369,Medium,1972,53,4.24,43397,10.678168636077336,141,4.955827057601261,10376
+"Fire (Graceling Realm, #2)",Kristin Cashore,Fantasy,Hardcover,480,Long,2009,16,4.09,193772,12.174442649847578,140,4.948759890378168,10350
+"From Blood and Ash (Blood and Ash, #1)",Jennifer L. Armentrout,Fantasy,ebook,622,Long,2020,5,4.21,834454,13.634534096124357,114,4.74493212836325,10340
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,Nonfiction,Hardcover,450,Long,2006,19,4.19,210095,12.255319848098786,136,4.919980925828125,10311
+Choke,Chuck Palahniuk,Fiction,Paperback,293,Medium,2001,24,3.71,220608,12.304147182793447,135,4.912654885736052,10309
+Dandelion Wine,Ray Bradbury,Fiction,Paperback,239,Medium,1957,68,4.09,78188,11.266884251677522,137,4.927253685157205,10296
+On Earth We're Briefly Gorgeous,Ocean Vuong,Fiction,Hardcover,246,Medium,2019,6,4.01,399636,12.898311914062699,112,4.727387818712341,10287
+"A Dead and Stormy Night (Nevermore Bookshop Mysteries, #1)",Steffanie Holmes,Fantasy,Kindle,302,Medium,2019,6,3.9,13690,9.524493961633755,109,4.700480365792417,10284
+The Portrait of a Lady,Henry James,Classics,Paperback,797,Long,1881,144,3.8,85007,11.350500648690725,151,5.0238805208462765,10227
+No Longer Human,Osamu Dazai,Classics,Paperback,176,Short,1948,77,3.94,248575,12.423503912770887,108,4.6913478822291435,10192
+A Room of One’s Own,Virginia Woolf,Classics,Paperback,112,Short,1929,96,4.22,257823,12.460032460576922,144,4.976733742420574,10166
+The Long Walk,Richard  Bachman,Horror,Mass,370,Medium,1978,47,4.02,269086,12.502790026369327,128,4.859812404361672,10152
+Wild Swans: Three Daughters of China,Jung Chang,Nonfiction,Paperback,562,Long,1991,34,4.3,123079,11.720589829435978,137,4.927253685157205,10140
+We Have Always Lived in the Castle,Shirley Jackson,Horror,Paperback,152,Short,1962,63,3.91,292549,12.586390871216382,126,4.844187086458591,10133
+Howards End,E.M. Forster,Classics,Paperback,318,Medium,1910,115,3.96,94595,11.45737047084791,155,5.049856007249537,10122
+The Forgotten Garden,Kate Morton,Historical Fiction,Paperback,648,Long,2008,17,4.16,237823,12.3792861832934,129,4.867534450455582,10117
+"Finale (Hush, Hush, #4)",Becca Fitzpatrick,Fantasy,Hardcover,466,Long,2012,13,4.11,186447,12.135907658813045,132,4.890349128221754,10109
+"The Ballad of Songbirds and Snakes (The Hunger Games, #0)",Suzanne Collins,Dystopia,Kindle,652,Long,2020,5,3.99,1155494,13.960039381556099,118,4.77912349311153,10081
+"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,Fantasy,Hardcover,984,Very Long,2018,7,4.71,1062372,13.876015643224735,110,4.709530201312334,10076
+Living Fearless: Exchanging the Lies of the World for the Liberating Truth of God,Jamie Winship,Christian,Paperback,176,Short,2022,3,4.44,3937,8.278428259199071,107,4.68213122712422,10075
+"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy,Fiction,Mass,432,Long,1984,41,4.12,388027,12.868832780950099,151,5.0238805208462765,10073
+"Worm Holes (Quantum Roots, #2)",Kyle Keyes,Fiction,Paperback,296,Medium,2017,8,4.34,2097,7.6487397889562425,112,4.727387818712341,10073
+Tender Is the Night,F. Scott Fitzgerald,Classics,Paperback,430,Long,1934,91,3.77,149244,11.913344529856161,146,4.990432586778736,10047
+"The Dark Tower (The Dark Tower, #7)",Stephen  King,Fantasy,Mass,1050,Very Long,2004,21,4.29,188907,12.149015403042819,136,4.919980925828125,9993
+"The Hawthorne Legacy (The Inheritance Games, #2)",Jennifer Lynn Barnes,Mystery,Hardcover,380,Medium,2021,4,4.18,613184,13.32642196384107,114,4.74493212836325,9980
+The White Tiger,Aravind Adiga,Fiction,Hardcover,288,Medium,2008,17,3.77,202302,12.217521852507078,116,4.762173934797756,9955
+"Inara (Godfrey Davis, #3)",A.R. Merrydew,Novels,Kindle,351,Medium,2024,1,4.35,6031,8.704833909687792,109,4.700480365792417,9943
+Pale Fire,Vladimir Nabokov,Fiction,Paperback,246,Medium,1962,63,4.17,57296,10.956003545311264,127,4.852030263919617,9935
+"The Lies of Vampires and Slayers (Magic on Main Street, #1)",K.M. Shea,Fantasy,Kindle,326,Medium,2023,2,4.35,8664,9.067047202149707,105,4.663439094112067,9924
+The Bridges of Madison County,Robert James Waller,Fiction,Mass,182,Short,1992,33,3.72,106243,11.573493614603905,158,5.0689042022202315,9919
+"The Eden Paradox (Eden Paradox, #1)",Barry Kirwan,Science Fiction,Kindle,392,Medium,2011,14,4.21,16137,9.688932018408451,109,4.700480365792417,9910
+Heartless,Marissa Meyer,Fantasy,Hardcover,453,Long,2016,9,4.09,255018,12.449093331168767,108,4.6913478822291435,9884
+"The City of Ember (Book of Ember, #1)",Jeanne DuPrau,Young Adult,Paperback,270,Medium,2003,22,3.9,298333,12.605968943223257,139,4.941642422609304,9862
+"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater,Young Adult,Hardcover,362,Medium,2010,15,3.88,175179,12.07356929571708,134,4.90527477843843,9835
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,Nonfiction,Mass,397,Medium,1998,27,4.07,443720,13.002951265523544,137,4.927253685157205,9827
+"Forrest Gump (Forrest Gump, #1)",Winston Groom,Fiction,Paperback,248,Medium,1986,39,4.01,72301,11.188607070281545,159,5.075173815233827,9767
+Turtles All the Way Down,John Green,Young Adult,Hardcover,290,Medium,2017,8,3.87,638916,13.367529834469343,113,4.736198448394496,9761
+Deception Point,Dan    Brown,Fiction,Paperback,556,Long,2001,24,3.77,698580,13.456806413733371,131,4.882801922586371,9759
+Twenty Years Later,Charlie Donlea,Thriller,Hardcover,357,Medium,2021,4,4.18,176718,12.082316179408908,102,4.634728988229636,9753
+Socialism Is Dead! Long Live Socialism!: The Marx Code—Socialism with a Human Face:,Todor Bombov,Politics,Kindle,242,Medium,2017,8,4.29,11743,9.371097750854297,106,4.672828834461906,9751
+"Kane & Abel (Kane & Abel, #1)",Jeffrey Archer,Fiction,Paperback,592,Long,1979,46,4.35,130687,11.780568082084283,120,4.795790545596741,9702
+"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle,Classics,Paperback,123,Short,1887,138,4.13,492194,13.10663025841533,149,5.0106352940962555,9696
+The Sea of Tranquility,Katja Millay,Romance,Kindle,449,Long,2012,13,4.29,88492,11.390678731822566,112,4.727387818712341,9691
+Beach Read,Emily Henry,Romance,Paperback,358,Medium,2020,5,3.97,1612098,14.293047614554984,110,4.709530201312334,9656
